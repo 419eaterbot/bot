@@ -1,0 +1,6 @@
+Full name: $First_name $Last_name
+Occupation: $Occupation
+Address: $Address
+Postcode: $Postcode
+Country: $Country
+Phone number: $Telephone

@@ -1,0 +1,39 @@
+
+
+Received: by 10.182.128.98 with SMTP id nn2csp48930obb;
+       Thu, 15 Mar 2012 03:49:55 -0700 (PDT)
+Received: by 10.180.85.69 with SMTP id f5mr14415960wiz.18.1331808594884;
+       Thu, 15 Mar 2012 03:49:54 -0700 (PDT)
+Return-Path: &lt;hagis001@visir.is&gt;
+Received: from nm24-vm3.bullet.mail.ukl.yahoo.com (nm24-vm3.bullet.mail.ukl.yahoo.com. [217.146.176.165])
+       by mx.google.com with SMTP id f5si1729432wif.0.2012.03.15.03.49.54;
+       Thu, 15 Mar 2012 03:49:54 -0700 (PDT)
+Received-SPF: neutral (google.com: 217.146.176.165 is neither permitted nor denied by best guess record for domain of hagis001@visir.is) client-ip=217.146.176.165;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 217.146.176.165 is neither permitted nor denied by best guess record for domain of hagis001@visir.is) smtp.mail=hagis001@visir.is; dkim=pass (test mode) header.i=@yahoo.com
+Received: from [217.146.183.214] by nm24.bullet.mail.ukl.yahoo.com with NNFMP; 15 Mar 2012 10:49:54 -0000
+Received: from [217.146.183.165] by tm7.bullet.mail.ukl.yahoo.com with NNFMP; 15 Mar 2012 10:49:54 -0000
+Received: from [127.0.0.1] by omp1006.mail.ukl.yahoo.com with NNFMP; 15 Mar 2012 10:49:54 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 163712.48444.bm@omp1006.mail.ukl.yahoo.com
+Received: (qmail 4143 invoked by uid 6007); 15 Mar 2012 10:49:54 -0000
+DKIM-Signature: v=1; a=rsa-sha2
+Return-Path: &lt;hagis001@visir.is&gt;
+X-YahooFilteredBulk: 193.4.194.143
+X-Originating-IP: [193.4.194.143]
+Authentication-Results: mta1015.mail.ukl.yahoo.com  from=zing.vn; domainkeys=neutral (no sig);  from=zing.vn; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO heimsnet.is) (193.4.194.143)
+ by mta1015.mail.ukl.yahoo.com with SMTP; Thu, 15 Mar 2012 10:49:54 +0000
+Received: from [86.21.244.248] (account hagis001@visir.is)
+ by heimsnet.is (CommuniGate Pro WebUser 4.2.10)
+ with HTTP id 88616287; Thu, 15 Mar 2012 10:15:02 +0000
+From: Chen Ho&lt;ch_chen@zing.vn&gt;
+Subject: Business
+X-Mailer: CommuniGate Pro WebUser Interface v.4.2.10
+Date: Thu, 15 Mar 2012 10:15:02 +0000
+Message-ID: &lt;web-88616287@heimsnet.is&gt;
+MIME-Version: 1.0
+Content-Type: text/plain; charset="ISO-8859-1"
+Content-Transfer-Encoding: 8bit
+
+
+Hello. I have a business proposal for you, There are no risks involved. Pls reply for briefs. From Chen Ho

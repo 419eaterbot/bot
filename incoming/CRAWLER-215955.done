@@ -1,0 +1,182 @@
+
+
+Viewing Full Header - View message
+Return-Path: &lt;diamondbnk@amxevents.com&gt;
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on mc3.midcoast.com
+X-Spam-Flag: YES
+X-Spam-Level: **************************************************
+X-Spam-Status: Yes, score=55.1 required=5.0 tests=ADVANCE_FEE_2_NEW_FORM,
+    ADVANCE_FEE_2_NEW_FRM_MNY,ADVANCE_FEE_2_NEW_MONEY,ADVANCE_FEE_3_NEW,
+    ADVANCE_FEE_3_NEW_FORM,ADVANCE_FEE_3_NEW_FRM_MNY,ADVANCE_FEE_3_NEW_MONEY,
+    ADVANCE_FEE_4_NEW,ADVANCE_FEE_4_NEW_FORM,ADVANCE_FEE_4_NEW_FRM_MNY,
+    ADVANCE_FEE_4_NEW_MONEY,ADVANCE_FEE_5_NEW,ADVANCE_FEE_5_NEW_FORM,
+    ADVANCE_FEE_5_NEW_FRM_MNY,ADVANCE_FEE_5_NEW_MONEY,FILL_THIS_FORM,
+    FILL_THIS_FORM_FRAUD_PHISH,FILL_THIS_FORM_LOAN,FILL_THIS_FORM_LONG,
+    FORGED_MUA_OUTLOOK,FORM_FRAUD_3,FORM_FRAUD_5,FROM_MISSPACED,
+    FROM_MISSP_EH_MATCH,FROM_MISSP_MSFT,FROM_MISSP_REPLYTO,FROM_MISSP_TO_UNDISC,
+    FROM_MISSP_URI,FSL_CTYPE_WIN1251,FSL_MISSP_REPLYTO,FSL_NEW_HELO_USER,FSL_UA,
+    FSL_XM_419,HK_RANDOM_ENVFROM,JM_SOUGHT_FRAUD_3,LOTS_OF_MONEY,MILLION_USD,
+    MONEY_ATM_CARD,MONEY_FRAUD_3,MONEY_FRAUD_5,MONEY_FRAUD_8,MONEY_FROM_MISSP,
+    MSOE_MID_WRONG_CASE,RCVD_IN_PSBL,SUBJ_ALL_CAPS,T_LOTTO_DEPT shortcircuit=no
+    autolearn=disabled version=3.3.2
+X-Spam-Report:
+    * 2.5 MILLION_USD BODY: Talks about millions of dollars
+    * 0.0 T_LOTTO_DEPT BODY: Claims Department
+    * 2.0 FSL_CTYPE_WIN1251 Content-Type only seen in 419 spam
+    * 0.0 FSL_XM_419 Old OE version in X-Mailer only seen in 419 spam
+    * 0.6 HK_RANDOM_ENVFROM Envelope sender username looks random
+    * 2.7 RCVD_IN_PSBL RBL: Received via a relay in PSBL
+    * [212.0.111.13 listed in psbl.surriel.com]
+    * 1.6 SUBJ_ALL_CAPS Subject is all capitals
+    * 1.9 FROM_MISSP_MSFT From misspaced + supposed Microsoft tool
+    * 3.0 JM_SOUGHT_FRAUD_3 Body contains frequently-spammed text patterns
+    * 0.1 FSL_NEW_HELO_USER FSL_NEW_HELO_USER
+    * 3.4 MSOE_MID_WRONG_CASE MSOE_MID_WRONG_CASE
+    * 1.7 FSL_MISSP_REPLYTO Mis-spaced from and Reply-to
+    * 0.3 FSL_UA FSL_UA
+    * 0.0 LOTS_OF_MONEY Huge... sums of money
+    * 0.9 FROM_MISSP_TO_UNDISC From misspaced, To undisclosed
+    * 0.0 MONEY_ATM_CARD Lots of money on an ATM card
+    * 3.1 FROM_MISSPACED From: missing whitespace
+    * 2.2 MONEY_FROM_MISSP Lots of money and misspaced From
+    * 0.3 FROM_MISSP_EH_MATCH From misspaced, matches envelope
+    * 0.0 FROM_MISSP_REPLYTO From misspaced, has Reply-To
+    * 0.0 FROM_MISSP_URI From misspaced, has URI
+    * 2.5 ADVANCE_FEE_5_NEW Appears to be advance fee fraud (Nigerian 419)
+    * 0.6 ADVANCE_FEE_4_NEW Appears to be advance fee fraud (Nigerian 419)
+    * 2.8 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+    * 0.5 ADVANCE_FEE_3_NEW Appears to be advance fee fraud (Nigerian 419)
+    * 0.0 FILL_THIS_FORM Fill in a form with personal information
+    * 3.5 FILL_THIS_FORM_LONG Fill in a form with personal information
+    * 0.6 ADVANCE_FEE_4_NEW_FRM_MNY Advance Fee fraud form and lots of money
+    * 1.9 ADVANCE_FEE_3_NEW_FORM Advance Fee fraud and a form
+    * 0.0 ADVANCE_FEE_2_NEW_FRM_MNY Advance Fee fraud form and lots of money
+    * 2.1 ADVANCE_FEE_5_NEW_FRM_MNY Advance Fee fraud form and lots of money
+    * 0.8 ADVANCE_FEE_3_NEW_FRM_MNY Advance Fee fraud form and lots of money
+    * 0.0 ADVANCE_FEE_4_NEW_MONEY Advance Fee fraud and lots of money
+    * 0.3 ADVANCE_FEE_4_NEW_FORM Advance Fee fraud and a form
+    * 2.1 ADVANCE_FEE_5_NEW_FORM Advance Fee fraud and a form
+    * 3.3 ADVANCE_FEE_5_NEW_MONEY Advance Fee fraud and lots of money
+    * 0.0 ADVANCE_FEE_3_NEW_MONEY Advance Fee fraud and lots of money
+    * 2.2 FILL_THIS_FORM_LOAN Answer loan question(s)
+    * 1.2 ADVANCE_FEE_2_NEW_MONEY Advance Fee fraud and lots of money
+    * 0.0 MONEY_FRAUD_3 Lots of money and several fraud phrases
+    * 2.5 MONEY_FRAUD_5 Lots of money and many fraud phrases
+    * 0.0 ADVANCE_FEE_2_NEW_FORM Advance Fee fraud and a form
+    * 0.5 MONEY_FRAUD_8 Lots of money and very many fraud phrases
+    * 0.4 FILL_THIS_FORM_FRAUD_PHISH Answer suspicious question(s)
+    * 0.5 FORM_FRAUD_5 Fill a form and many fraud phrases
+    * 0.4 FORM_FRAUD_3 Fill a form and several fraud phrases
+X-Original-To: 
+Received: from localhost (localhost [127.0.0.1])
+    by mc3.midcoast.com (Postfix) with ESMTP id 37A16F39D9
+    for &lt;&gt;; Thu, 1 Mar 2012 18:07:58 -0500 (EST)
+X-Virus-Scanned: by amavisd-new at midcoast.com
+Received: from mc3.midcoast.com ([127.0.0.1])
+    by localhost (mc3.midcoast.com [127.0.0.1]) (amavisd-new, port 10024)
+    with ESMTP id s6Wu3NJOY8JC for &lt;;
+    Thu, 1 Mar 2012 18:07:56 -0500 (EST)
+Received: from mx1.midcoast.com (mx1.midcoast.com [69.39.100.26])
+    by mc3.midcoast.com (Postfix) with ESMTP id 94507F3E58
+    for &lt;com&gt;; Thu, 1 Mar 2012 18:07:50 -0500 (EST)
+Received: from mail.ntrglobal.com (mail.ntrglobal.com [212.0.111.13])
+    by mx1.midcoast.com (Postfix) with ESMTP id 2C9DCDF357
+    for &gt;; Thu, 1 Mar 2012 18:07:48 -0500 (EST)
+Received: from User
+    by mail.ntrglobal.com (NTRglobal Mail Server v9.1.4) with ASMTP id LAH11839;
+    Fri, 02 Mar 2012 00:06:39 +0100
+Reply-To: &lt;eric.smith1@w.cn&gt;
+From: "DIAMOND BANK."&lt;diamondbnk@amxevents.com&gt;
+Subject: PJM-&gt; 02/29/2012 - COMPENSATION FROM WORLD BANK&gt;&gt;CONTACT MR. ERIC SMITH IMMEDIATELY FOR YOUR ATM CARD.
+Date: Thu, 1 Mar 2012 17:10:04 -0600
+MIME-Version: 1.0
+Content-Type: text/plain;
+    charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: &lt;20120301230748.2C9DCDF357@mx1.midcoast.com&gt;
+To: undisclosed-recipients:;
+X-Spam-Prev-Subject: 02/29/2012 - COMPENSATION FROM WORLD BANK&gt;&gt;CONTACT MR. ERIC SMITH IMMEDIATELY FOR YOUR ATM CARD.
+DIAMOND BANK.
+ATM International credit Settlement.
+Directorate of International Payment.
+
+Dear, Beneficiary,
+
+This is to officially notify you about your Fund that was suppose to be rendered to
+you via numerous ways i.e, Courier Companies, Western Union Money Transfers and
+Banks. Due to this lost of Funds of hours which was suppose to be given to you but
+failed to. So in this case, a beneficial meeting was held on the 10th of January
+2011 at the World Bank in Switzerland, which top officials and Central Bank
+Governors from different countries in the world were present at the meeting. Which
+they discussed on how youre Fund can be given to you without any loss at this time,
+which you have to stop any further communication with any other person(s) or
+office(s) to avoid any hitches in receiving your ATM payment.
+
+In conclusion at the meeting, The President of World Bank Mr.Robert B.Zoellick has
+strictly authorized 6 Banks in the World to deliver all Funds through courier
+companies. Your Fund which is truly $2.5 Million USD (Two Million, Five Hundred
+Thousand United States of America Dollars) to all beneficiaries in various countries
+in the world as an ATM MASTER CARD. Below are the authorized Banks;
+
+Daiwa Bank/Osaka/Japan.
+....................................
+Caja De Madrid/Madrid/Spain.
+....................................
+Lloyds Bank/London/England.
+.......................................
+Diamond Bank Plc/Lagos/Nigeria.
+......................................
+Banco di Santo Spirito/Rome/Italy.
+........................................
+Bank of New York Mellon Corp/New York/USA.
+
+Each of this Banks are to distribute 350 ATM MASTER CARDS to every beneficiaries in
+the World that are to receive their compensation ATM CARD, so this Bank (DIAMOND
+BankPlc.) will send you your ATM CARD which you will use to withdraw your money in
+any ATM machine in any part of the world, but the maximum withdrawal is $50,000 USB
+per day while minimum withdrawal is $20,000 USB per day. Note that this ATM CARD of
+yours has been activated and a security pin code number will be issued to you from
+this Bank as soon as you receive your Card for a safer withdrawal. Please contact
+the ATM CARD payment department Manager MR. Eric PAULSON Smith by sending your
+information to him for an immediate response. Contacts of Mr Eric Smith are as
+below;
+
+Mr. Eric Smith. Director of ATM payment department DIAMOND BANK Plc.
+Email: eric.smith1@w.cn
+Tel: +234 708 780 6373
+
+NOTE:FOR NON APPEARANCES,DO NOT CONTACT MR. ERIC SMITH, IF YOU CAN NOT PAY FOR THE
+SHIPPING OF YOUR ATM CARD.
+
+Your Full Name:...............
+Country/Your Address:.................
+Occupation:....................
+Contact Home/Cell Phone:...................
+Age/Sex:.................................
+A Scan Copy of your Identity:.......................
+
+Please make a Choice of delivery for the Shipping of your ATM CARD as they are as
+charged Below
+
+DHL COURIER COMPANY&gt;&gt;&gt;&gt;&gt;&gt;Shipping fee: $450.00 (1 day delivery)
+FedEx COURIER COMPANY&gt;&gt;&gt;&gt;Shipping fee: $335.00 (2 day delivery)
+UPS COURIER COMPANY&gt;&gt;&gt;&gt;&gt;&gt;Shipping fee: $215.00 (3 day delivery)
+
+For oral discussion, you can reach Mr. Eric Smith on email or call his office
+telephone line given to you above as soon as you receive this important message for
+further directions and also update him on any development from the above mentioned
+office. Note that is because of impostors, we hereby issued you our code of conduct,
+which is (ATM) so you have to indicate this code when contacting the card centre by
+using it as your subject.
+
+Sincerely Yours,
+
+Mr. Eric Smith.
+Chief Remittance Officer,
+DIAMOND BANK Plc,
+And In Respect of The World Bank
+ 

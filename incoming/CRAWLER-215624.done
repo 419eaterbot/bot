@@ -1,0 +1,138 @@
+
+
+Viewing Full Header - View message
+Return-Path: &lt;revjames@cbn.com&gt;
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on mc3.midcoast.com
+X-Spam-Flag: YES
+X-Spam-Level: 
+    version=3.3.2
+X-Spam-Report:
+    * 2.7 RCVD_IN_PSBL RBL: Received via a relay in PSBL
+    * [189.109.31.186 listed in psbl.surriel.com]
+    * 1.6 RCVD_IN_BRBL_LASTEXT RBL: RCVD_IN_BRBL_LASTEXT
+    * [189.109.31.186 listed in bb.barracudacentral.org]
+    * 4.0 URIBL_BLACK Contains an URL listed in the URIBL blacklist
+    * [URIs: cash4u.com]
+    * 0.0 T_LOTTO_DEPT BODY: Claims Department
+    * 2.5 MILLION_USD BODY: Talks about millions of dollars
+    * 3.6 NA_DOLLARS BODY: Talks about a million North American dollars
+    * 0.9 URG_BIZ BODY: Contains urgent matter
+    * 2.0 FSL_CTYPE_WIN1251 Content-Type only seen in 419 spam
+    * 0.0 FSL_XM_419 Old OE version in X-Mailer only seen in 419 spam
+    * 0.8 NSL_RCVD_FROM_USER Received from User
+    * 1.6 SUBJ_ALL_CAPS Subject is all capitals
+    * 1.9 FROM_MISSP_MSFT From misspaced + supposed Microsoft tool
+    * 0.1 FSL_NEW_HELO_USER FSL_NEW_HELO_USER
+    * 3.4 MSOE_MID_WRONG_CASE MSOE_MID_WRONG_CASE
+    * 1.7 FSL_MISSP_REPLYTO Mis-spaced from and Reply-to
+    * 1.2 FROM_MISSP_USER From misspaced, from "User"
+    * 0.3 FSL_UA FSL_UA
+    * 0.0 LOTS_OF_MONEY Huge... sums of money
+    * 0.8 UPPERCASE_50_75 message body is 50-75% uppercase
+    * 0.9 FROM_MISSP_TO_UNDISC From misspaced, To undisclosed
+    * 3.1 FROM_MISSPACED From: missing whitespace
+    * 2.2 MONEY_FROM_MISSP Lots of money and misspaced From
+    * 0.3 FROM_MISSP_EH_MATCH From misspaced, matches envelope
+    * 0.0 FROM_MISSP_REPLYTO From misspaced, has Reply-To
+    * 0.0 MONEY_LOTTERY Lots of money from a lottery
+    * 0.0 FROM_MISSP_URI From misspaced, has URI
+    * 2.5 ADVANCE_FEE_5_NEW Appears to be advance fee fraud (Nigerian 419)
+    * 0.6 ADVANCE_FEE_4_NEW Appears to be advance fee fraud (Nigerian 419)
+    * 2.8 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+    * 0.5 ADVANCE_FEE_3_NEW Appears to be advance fee fraud (Nigerian 419)
+    * 0.0 ADVANCE_FEE_4_NEW_MONEY Advance Fee fraud and lots of money
+    * 3.3 ADVANCE_FEE_5_NEW_MONEY Advance Fee fraud and lots of money
+    * 0.0 ADVANCE_FEE_3_NEW_MONEY Advance Fee fraud and lots of money
+    * 1.2 ADVANCE_FEE_2_NEW_MONEY Advance Fee fraud and lots of money
+    * 0.0 MONEY_FRAUD_3 Lots of money and several fraud phrases
+    * 2.5 MONEY_FRAUD_5 Lots of money and many fraud phrases
+    * 0.5 MONEY_FRAUD_8 Lots of money and very many fraud phrases
+    * 0.0 T_FILL_THIS_FORM_SHORT Fill in a short form with personal
+    * information
+    * 0.5 FORM_FRAUD_5 Fill a form and many fraud phrases
+    * 0.4 FORM_FRAUD_3 Fill a form and several fraud phrases
+X-Original-To: 
+Received: from localhost (localhost [127.0.0.1])
+    by mc3.midcoast.com (Postfix) with ESMTP id B6C6AF38FF
+    for &lt;&gt;; Wed, 22 Feb 2012 22:28:21 -0500 (EST)
+X-Virus-Scanned: by amavisd-new at midcoast.com
+Received: from mc3.midcoast.com ([127.0.0.1])
+    by localhost (mc3.midcoast.com [127.0.0.1]) (amavisd-new, port 10024)
+    with ESMTP id GnWx+wfbVGjy for &lt;;
+    Wed, 22 Feb 2012 22:28:21 -0500 (EST)
+Received: from mx1.midcoast.com (mx1.midcoast.com [69.39.100.26])
+    by mc3.midcoast.com (Postfix) with ESMTP id 87E61F3676
+    for ; Wed, 22 Feb 2012 22:28:21 -0500 (EST)
+Received: from proxysp.ucrg.adv (mobile.ulhoacanto.com.br [189.109.31.186])
+    by mx1.midcoast.com (Postfix) with ESMTP id 55271E94A5
+    for &lt;mhallack@midcoast.com&gt;; Wed, 22 Feb 2012 22:28:21 -0500 (EST)
+Received: from User (mail.lwvlaw.com [74.7.125.114])
+    by proxysp.ucrg.adv (Postfix) with ESMTPA id 050369C5F2E;
+    Thu, 23 Feb 2012 01:11:34 -0200 (BRST)
+Reply-To: &lt;cbnpaydept@accountant.com&gt;
+From: "CENTRAL BANK OF NIGERIA"&lt;revjames@cbn.com&gt;
+Subject: PJM-&gt; DID YOU INSTRUCT MR LANE JEFFREY TO CLAIM YOUR FUND.
+Date: Wed, 22 Feb 2012 21:05:12 -0500
+MIME-Version: 1.0
+Content-Type: text/plain;
+    charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-Id: &lt;20120223032821.55271E94A5@mx1.midcoast.com&gt;
+To: undisclosed-recipients:;
+X-Spam-Prev-Subject: DID YOU INSTRUCT MR LANE JEFFREY TO CLAIM YOUR FUND.
+CENTRAL BANK OF NIGERIA
+CENTRAL BUSINESS DISTRICT
+CADESTRAL ZONE ABUJA.
+FEDERAL CAPITAL TERRITORY.
+OUR REF: CBN/IRD/CBX/021/08
+CONTRACT #: MAV/NNPC/FGN/MIN/009
+TEL: +234-803-872-2466
+Contact Email: revjames@cash4u.com
+
+
+                                        CONTRACT PAYMENT FILE APPROVAL FINAL NOTICE.
+
+Attention:
+
+      The senate president call our office this morning to inform us that we should
+ask you if you authorize Mr Lane Jeffrey to claim your winning fund valued
+USD$8M (Eight Million United States Dollars Only) for you, the personal
+assistant to the senate president on contract winnings told us that he call
+this morning that he is your lawyer and you ask him to claim your funds on
+your behalf because you are busy and you have given him the go ahead, the
+senate  payment department want to know if truly you are the person that
+instruct him to claim your fund. And he also write to us with an
+identification that he is from you.
+
+PLEASE, DO RECONFIRM TO THIS OFFICE, AS A MATTER OF URGENCY IF THIS MAN IS FROM YOU
+SO THAT THE FEDERAL GOVERNMENT WILL NOT BE HELD RESPONSIBLE FOR PAYING INTO THE
+WRONG ACCOUNT NAME. IF THIS MAN IS NOT YOUR REP, YOU ARE REQUESTED TO FILL AND SEND
+THIS INFORMATIONS FOR VERIFICATIONS PURPOSES SO THAT YOUR FUND VALUED ($8 MILLION)
+US DOLLARS WILL BE REMITTED INTO YOUR NOMINATED BANK ACCOUNT.
+
+KINDLY RE-CONFIRM TO ME THE FOLLOWINGS:
+1) YOUR FULL NAME:
+2) PHONE, FAX AND MOBILE:
+3) COMPANY NAME, POSITION AND ADDRESS:
+4) PROFESSION, AGE AND MARITAL STATUS:
+5) WORKING ID/INT'L PASSPORT IF ANY:
+
+THIS IS A PAYMENT FOR THE NEW YEAR. HOWEVER; WE SHALL PROCEED TO ISSUE ALL PAYMENTS
+DETAILS TO THE SAID MR. LANE JEFFREY, IF WE DO NOT HEAR FROM YOU WITHIN THE NEXT
+THREE WORKING DAYS FROM TODAY.
+
+We need urgent response from you immediately you receive this email for fast
+investigation on your matter.
+
+Thank you once again for your anticipated cooperation in advance while we await your
+urgent response.
+
+Congratulations in advance !
+
+Regards,
+Rev. James Smith.
+ 

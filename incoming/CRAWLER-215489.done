@@ -1,0 +1,61 @@
+
+
+Your Payment Notification From Zenith Bank Ghana
+Wednesday, February 22, 2012 6:03 AM
+From Zenith Bank Ltd Wed Feb 22 04:03:33 2012
+X-Apparently-To: 		 via 67.195.15.112; Wed, 22 Feb 2012 04:03:35 -0800
+Return-Path: 		&lt;web.info_1214@btinternet.com&gt;
+Received-SPF: 		none (domain of btinternet.com does not designate permitted sender hosts) T3Bwb3NpdGUgUGVuc2lvbiBIb3VzZUxpYmVyaWEgUm9hZCwgTWluaXN0cmll cywgQWNjcmEsIEdoYW5hICAgIEFUVE4hIEZVTkQgQkVORUZJQ0lBUlksIFJF OiBTV0lGVCBUUkFOU0ZFUiBPRiBZT1VSIE9WRVItRFVFIFBBWU1FTlQgSU5U TyBZT1VSCiBBQ0NPVU5ULiBJIGFtIERSLldJTExJQU1TIEJPQVRFTkcgSEVB RCBPRiBUUkVBU1VSWSBERVBBUlRNRU5UIFpFTklUSCBCQU5LATABAQEB
+X-YMailISG: 		npeBbP4WLDvZ2AtGWyy5sH34aJo.2UficIVCFY9ZnZoCH.tG M0wg9J28B9c6Hr5iwc69FbMtP10nIVMoLjlvWamKmefqKwGbeFtB7c0SA53C n7EBHh9qgm2p1PAqjmed.5X3TJXTJHRbLzgneigLjxjxbawyIpquMkKSTlIb 5IzfRgO18oQyljfRIpR6VOOq2Khbi0YSD3ajpXiUD1qGFRwvyyaR1nvSao4Q jQ.ziTuvkRrjVpa4P4V26i3hHVylnnMP4Cy63azurOl3yYnVGEgdiR13Qpyi .s89zzUs670FlG72HzLGdDYg9IGyDMNH456Yu02qfcAc4vgtp6izB.JLUpX4 gWJJQ1FpsxkMj5.jzy1STq2E7edcaQJP3L0.kz0fdFjEBFjNXMtXa.k6QKhN owUQ9nsI8.4N7LI-
+X-Originating-IP: 		[212.82.108.233]
+Authentication-Results: 		mta1035.sbc.mail.mud.yahoo.com from=btinternet.com; domainkeys=pass (ok); from=btinternet.com; dkim=pass (ok)
+Received: 		from 204.127.208.81 (EHLO sccwmxc01.att.net) (204.127.208.81) by mta1035.sbc.mail.mud.yahoo.com with SMTP; Wed, 22 Feb 2012 04:03:35 -0800
+Received: 		from nm2.bt.bullet.mail.ird.yahoo.com ([212.82.108.233]) by att.net (sccwmxc01) with SMTP id &lt;20120222120334s01007pujfe&gt;; Wed, 22 Feb 2012 12:03:34 +0000
+X-Originating-IP: 		[212.82.108.233]
+Received: 		from [212.82.108.228] by nm2.bt.bullet.mail.ird.yahoo.com with NNFMP; 22 Feb 2012 12:03:34 -0000
+Received: 		from [212.82.108.227] by tm1.bt.bullet.mail.ird.yahoo.com with NNFMP; 22 Feb 2012 12:03:34 -0000
+Received: 		from [127.0.0.1] by omp1004.bt.mail.ird.yahoo.com with NNFMP; 22 Feb 2012 12:03:34 -0000
+X-Yahoo-Newman-Property: 		ymail-3
+X-Yahoo-Newman-Id: 		120503.53332.bm@omp1004.bt.mail.ird.yahoo.com
+Received: 		(qmail 22308 invoked by uid 60001); 22 Feb 2012 12:03:33 -0000
+DKIM-Signature: 		v=1; a=rsa-sha256; c=relaxed/relaxed; d=btinternet.com; s=s1024; t=1329912213; bh=eKXMiqNSfk0D/DzTv9iorFejhPCVYnI7gkRjRG752II=; h=X-YMail-OSG:Received:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type; b=Ec7KHAMtNuR4fUmmlYI3uypKWCAtlWfvZqfCrfVVdsjs12xA555UdUxvOWYYhA4sURO9xKNQRDWk/0qnN+f/+nC2rSNAMX6vnaFegC49qwL2JjHqtfM9sHUWuxfj3ii5/cuVALgCci10vNqstomSkefqNAIMWNNq8r0ddNbk20o=
+DomainKey-Signature: 		a=rsa-sha1; q=dns; c=nofws; s=s1024; d=btinternet.com; h=X-YMail-OSG:Received:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type; b=4bEgANN/kAHo90he+mIeQWafmdP3vpwRipgFGJbcmYHsUFh2HypB+AfQIz/aV6zfP4rw+8ZmzNkQwVzkzqPF5hbUPLWaFoxmLGaaXGBExvan/IpWprodh2N6TigfMMuN2Gd1HfPBSU8A32TwsQLpQRzGh1QcuRfaXPOfZXTeZTA=;
+X-YMail-OSG: 		VMLu_7MVM1nm_4wt8FQlnTAIqzoRdXnQ7NeK5Q9LNwnHWet qIXX6LG_7J9q0TVxkc64w2GiGhU.TCwvjIo44PJaPe0MgcQr6gAfAi6ebSr6 YbVeArVF6sSC1A4WwRPWF5Fs4HuPo6SMDwGcI0.5f9059CSF_DSGoCOJ3OCG uBSOeEzVrTQyeFVgRWrILXN2r0htpe0sgP8MyoYgwWFpl9wPomq0Nrgx4_vc M_n4bMo45xZIDJh74xGbSV1BwFquf1N0q7z8wRtg5jMWr6AiheUj3YygZ4bp CwMqKZqBDj_CWuqHCQrHuwKmH36u76v0VEMw613BCAJ1D8CzhxSulpMY04Tn aSMu1a9sZbKyhdQNb_0h.ugQmUD5D1EcO4XfEi_hP.Rt7uxIJ.bHwxXJuIlh N0lKc4pPN42Bw3F7cRVrKE5NQ29r4XDrmJUsxznsIn8ZFGtzq6Fwev6WHTja un0kNTOWFfdJSvQ9CdIUV
+Received: 		from [41.218.252.106] by web87405.mail.ir2.yahoo.com via HTTP; Wed, 22 Feb 2012 12:03:33 GMT
+X-Mailer: 		YahooMailClassic/15.0.4 YahooMailWebService/0.8.116.338427
+Message-ID: 		&lt;1329912213.13613.YahooMailClassic@web87405.mail.ir2.yahoo.com&gt;
+Date: 		Wed, 22 Feb 2012 12:03:33 +0000 (GMT)
+From: 		This sender is DomainKeys verified
+Zenith Bank Ltd &lt;web.info_1214@btinternet.com&gt;  
+Add sender to Contacts
+Reply-To: 		info.zenithbank.gh.ltd1@gmail.com
+Subject: 		Your Payment Notification From Zenith Bank Ghana
+To: 		undisclosed recipients: ;
+MIME-Version: 		1.0
+Content-Type: 		multipart/alternative; boundary="-633766066-864345093-1329912213=:13613"
+Content-Length: 		7762
+Compact Headers
+
+INTERNATIONAL TRANSFER
+Premier Towers, Opposite Pension House
+Liberia Road, Ministries, Accra, Ghana   
+
+ATTN! FUND BENEFICIARY,
+
+RE: SWIFT TRANSFER OF YOUR OVER-DUE PAYMENT INTO YOUR ACCOUNT.
+
+I am DR.WILLIAMS BOATENG HEAD OF TREASURY DEPARTMENT ZENITH BANK GHANA LTD, This is the second time we are notifying you about this said fund but still we have not received any correspondence from you.
+
+Following the general meeting held with the government of Ghana in conjunction with the international monetary fund (IMF), European Union (EU) and the world bank monitoring group on the understanding that every agencies under this present administration must settle all foreign accumulated debt in various foreign/local payments within the range of contracts, inheritance and lottery winnings in different ministries, banks and other approved agencies. This issue was raised during the meeting to the senate committee on foreign debts cancellation after several complains from the IMF and the world bank auditors in their quest to fight corruption within Africa that has affected most foreign/ local beneficiaries as well as to resolve the global economic crisis.
+
+In view of the above mentioned agencies and in accordance with the statutory of this currently raised committee in all debts review and control. Your over-due funds have been brought to our bank for your payment and a part-payment of US$ 2,647,072 (Two million six hundred and forty-seven thousand seventy-two United States Dollars) have been scheduled for immediate release into your account while the balance will be paid later. We advice that you stop every further correspondence with anybody from anywhere concerning your funds payment as they are not in the position to release your fund, We know that they will want to convince you to still go ahead with them, which will be at your own risk and you will have yourself to blame at the end if you insist dealing with them.
+
+As a matter of fact we do not have enough time to waste since we have wasted time in contacting our respective customers, Heed to reconfirm your identification for example, your international passport or your drivers license, your telephone and fax number for easy communication with your designated bank details, try and comply with the essential requirements to ensure the swift release of these funds into your account.
+
+For more information call Tel: +233-(0)543417217, Fax: +233-021-0617001
+
+Best Regards,
+
+DR.WILLIAMS BOATENG,
+HEAD OF TREASURY DEPARTMENT.
+ZENITH BANK GHANA.

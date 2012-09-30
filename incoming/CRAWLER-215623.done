@@ -1,0 +1,152 @@
+
+
+Viewing Full Header - View message
+Return-Path: &lt;sesesekomariam57@yahoo.com.hk&gt;
+X-Spam-Checker-Version: SpamAssassin 3.3.2 (2011-06-06) on mc3.midcoast.com
+X-Spam-Flag: YES
+X-Spam-Level: ***********************************
+X-Spam-Status: Yes, score=35.7 required=5.0 tests=ADVANCE_FEE_2_NEW_MONEY,
+    ADVANCE_FEE_3_NEW,ADVANCE_FEE_3_NEW_MONEY,ADVANCE_FEE_4_NEW,
+    ADVANCE_FEE_4_NEW_MONEY,DATE_IN_FUTURE_03_06,DEAR_FRIEND,FORGED_MUA_OUTLOOK,
+    FORM_FRAUD_3,FORM_FRAUD_5,FREEMAIL_ENVFROM_END_DIGIT,FREEMAIL_FROM,
+    FREEMAIL_REPLYTO_END_DIGIT,FROM_MISSPACED,FROM_MISSP_EH_MATCH,
+    FROM_MISSP_FREEMAIL,FROM_MISSP_MSFT,FROM_MISSP_REPLYTO,FROM_MISSP_TO_UNDISC,
+    FROM_MISSP_URI,FSL_CTYPE_WIN1251,FSL_MISSP_REPLYTO,FSL_UA,FSL_XM_419,
+    LOTS_OF_MONEY,MILLION_USD,MONEY_FRAUD_3,MONEY_FRAUD_5,MONEY_FRAUD_8,
+    MONEY_FROM_MISSP,RCVD_IN_BRBL_LASTEXT,T_FILL_THIS_FORM_SHORT,
+    T_HK_NAME_FM_MR_MRS,UPPERCASE_75_100,US_DOLLARS_3 shortcircuit=no
+    autolearn=disabled version=3.3.2
+X-Spam-Report:
+    * 1.6 RCVD_IN_BRBL_LASTEXT RBL: RCVD_IN_BRBL_LASTEXT
+    * [213.190.139.243 listed in bb.barracudacentral.org]
+    * 2.5 MILLION_USD BODY: Talks about millions of dollars
+    * 2.0 FSL_CTYPE_WIN1251 Content-Type only seen in 419 spam
+    * 0.0 FSL_XM_419 Old OE version in X-Mailer only seen in 419 spam
+    * 0.0 FREEMAIL_FROM Sender email is commonly abused enduser mail provider
+    * (sesesekomariam57[at]yahoo.com.hk)
+    * 0.2 FREEMAIL_REPLYTO_END_DIGIT Reply-To freemail username ends in digit
+    * (&lt;sesesekomariam57[at]yahoo.com.hk&gt;
+    )
+    * 2.4 DATE_IN_FUTURE_03_06 Date: is 3 to 6 hours after Received: date
+    * 0.2 FREEMAIL_ENVFROM_END_DIGIT Envelope-from freemail username ends in
+    * digit (sesesekomariam57[at]yahoo.com.hk)
+    * 2.6 DEAR_FRIEND BODY: Dear Friend? That's not very dear!
+    * 2.5 US_DOLLARS_3 BODY: Mentions millions of $ ($NN,NNN,NNN.NN)
+    * 1.2 UPPERCASE_75_100 message body is 75-100% uppercase
+    * 1.9 FROM_MISSP_MSFT From misspaced + supposed Microsoft tool
+    * 0.0 T_HK_NAME_FM_MR_MRS T_HK_NAME_FM_MR_MRS
+    * 1.7 FSL_MISSP_REPLYTO Mis-spaced from and Reply-to
+    * 0.3 FSL_UA FSL_UA
+    * 0.0 LOTS_OF_MONEY Huge... sums of money
+    * 0.9 FROM_MISSP_TO_UNDISC From misspaced, To undisclosed
+    * 3.1 FROM_MISSPACED From: missing whitespace
+    * 2.2 MONEY_FROM_MISSP Lots of money and misspaced From
+    * 0.3 FROM_MISSP_EH_MATCH From misspaced, matches envelope
+    * 0.0 FROM_MISSP_REPLYTO From misspaced, has Reply-To
+    * 0.0 FROM_MISSP_URI From misspaced, has URI
+    * 0.6 ADVANCE_FEE_4_NEW Appears to be advance fee fraud (Nigerian 419)
+    * 2.8 FORGED_MUA_OUTLOOK Forged mail pretending to be from MS Outlook
+    * 0.5 ADVANCE_FEE_3_NEW Appears to be advance fee fraud (Nigerian 419)
+    * 0.0 ADVANCE_FEE_4_NEW_MONEY Advance Fee fraud and lots of money
+    * 0.0 ADVANCE_FEE_3_NEW_MONEY Advance Fee fraud and lots of money
+    * 1.2 ADVANCE_FEE_2_NEW_MONEY Advance Fee fraud and lots of money
+    * 0.0 MONEY_FRAUD_3 Lots of money and several fraud phrases
+    * 2.5 MONEY_FRAUD_5 Lots of money and many fraud phrases
+    * 0.8 FROM_MISSP_FREEMAIL From misspaced + freemail provider
+    * 0.5 MONEY_FRAUD_8 Lots of money and very many fraud phrases
+    * 0.0 T_FILL_THIS_FORM_SHORT Fill in a short form with personal
+    * information
+    * 0.5 FORM_FRAUD_5 Fill a form and many fraud phrases
+    * 0.4 FORM_FRAUD_3 Fill a form and several fraud phrases
+X-Original-To: 
+Received: from localhost (localhost [127.0.0.1])
+    by mc3.midcoast.com (Postfix) with ESMTP id D737BF3A01
+    for \&gt;; Wed, 22 Feb 2012 23:50:33 -0500 (EST)
+X-Virus-Scanned: by amavisd-new at midcoast.com
+Received: from mc3.midcoast.com ([127.0.0.1])
+    by localhost (mc3.midcoast.com [127.0.0.1]) (amavisd-new, port 10024)
+    with ESMTP id PWiyIkW1JC9S for ;
+    Wed, 22 Feb 2012 23:50:33 -0500 (EST)
+Received: from mx1.midcoast.com (mx1.midcoast.com [69.39.100.26])
+    by mc3.midcoast.com (Postfix) with ESMTP id AA4B2F36BD
+    for &gt;; Wed, 22 Feb 2012 23:50:33 -0500 (EST)
+Received: from mail.4SeasonsHotel.ie (mail.4seasonshotel.ie [213.190.139.243])
+    by mx1.midcoast.com (Postfix) with ESMTP id 4E31EDF26F
+    for &lt;; Wed, 22 Feb 2012 23:50:33 -0500 (EST)
+Received: from info ([82.128.44.195]) by mail.4SeasonsHotel.ie with Microsoft SMTPSVC(6.0.3790.3959);
+    Thu, 23 Feb 2012 00:29:07 +0000
+Reply-To: &lt;sesesekomariam57@yahoo.com.hk&gt;
+From: "MRS. M. SESE SEKO."&lt;sesesekomariam57@yahoo.com.hk&gt;
+Subject: PJM-&gt; READ.
+Date: Thu, 23 Feb 2012 01:28:53 -0800
+MIME-Version: 1.0
+Content-Type: text/plain;
+    charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+Message-ID: &lt;FSH-SRV01SxUAniNSdP00009b75@mail.4SeasonsHotel.ie&gt;
+X-OriginalArrivalTime: 23 Feb 2012 00:29:09.0136 (UTC) FILETIME=[28713900:01CCF1C2]
+To: undisclosed-recipients:;
+X-Spam-Prev-Subject: READ.
+DEAR FRIEND,
+
+I AM MRS. SESE-SEKO WIDOW OF LATE PRESIDENT MOBUTU SESE-SEKO OF ZAIRE NOW KNOWN
+AS DEMOCRATIC REPUBLIC OF CONGO (DRC).
+
+I AM MOVED TO WRITE YOU THIS LETTER; THIS WAS IN CONFIDENCE CONSIDERING MY
+PRESENT CIRCUMSTANCE AND SITUATION I ESCAPED ALONG WITH MY HUSBAND AND TWO OF
+OUR SONS BASHER AND KENNEDY OUT OF DEMOCRATIC REPUBLIC OF CONGO (DRC).
+
+TO ABIDJAN, COTED'IVOIRE WHERE MY FAMILY AND I SETTLED, WHILE WE LATER MOVED TO
+SETTLED IN MORROCO WHERE MY HUSBAND LATER DIED OF CANCER DISEASE.
+
+HOWEVER DUE TO THIS SITUATION WE DECIDED TO CHANGED MOST OF MY HUSBAND'S
+BILLIONS OF DOLLAR DEPOSITED IN SWISS BANK AND OTHER COUNTRIES INTO OTHER FORMS
+OF MONEY CODED FOR SAFE PURPOSE BECAUSE THE NEW HEAD OF STATE OF (DR) MR LAURENT
+KABILA HAS MADE ARRANGEMENT WITH THE SWISS GOVERNMENT AND OTHER EUROPEAN
+COUNTRIES TO FREEZE ALL MY LATE HUSBAND'S TREASURES DEPOSITED IN SOME EUROPEAN
+COUNTRIES.
+
+HENCE MY CHILDREN AND I DECIDED LAYING LOW IN AFRICA TO STUDY THE SITUATION TILL
+WHEN THINGS GET BETTER, LIKE NOW THAT PRESIDENT KABILA IS DEAD AND THE SON
+TAKING OVER (JOSEPH KABILA).
+
+ONE OF MY LATE HUSBAND'S CHATEAUX IN SOUTHERN FRANCE WAS CONFISCATED BY THE
+FRENCH GOVERNMENT, AND AS SUCH I HAD TO CHANGE MY IDENTITY SO THAT MY INVESTMENT
+WILL NOT BE TRACED AND CONFISCATED.
+
+I HAVE DEPOSITED THE SUM OF THIRTY MILLION UNITED STATE DOLLAR (USD$30,000,000,
+00.)WITH A SECURITY COMPANY, FOR SAFE KEEPING.THE FUNDS ARE SECURITY CODED TO
+PREVENT THEM FROM KNOWING THE CONTENT.
+
+WHAT I WANT YOU TO DO IS TO INDICATE YOUR INTEREST THAT YOU WILL ASSIST US BY
+RECEIVING THE MONEY ON OUR BEHALF.ACKNOWLEDGE THIS MESSAGE, SO THAT I CAN
+INTRODUCE YOU TO MY SON (KENNEDY) WHO HAS THE OUT MODALITIE FOR THE CLAIM OF THE
+SAID FUNDS.
+
+I WANT YOU TO ASSIST IN INVESTING THIS MONEY,BUT I  WILL NOT WANT MY IDENTITY
+REVEALED. I WILL ALSO WANT TO BUY PROPERTIES AND STOCK IN MULTINATIONAL
+COMPANIES AND TO ENGAGE IN OTHER SAFE AND NON-SPECULATIVE INVESTMENTS.
+
+MAY I AT THIS POINT EMPHASISE THE HIGH LEVEL OF CONFIDENTIALITY, WHICH THIS
+BUSINESS DEMANDS, AND HOPE YOU WILL NOT BETRAY THE TRUST AND CONFIDENCE WHICH I
+REPOSE IN YOU.
+
+IN CONCLUSION, IF YOU WANT TO ASSIST US, MY SON (KENNEDY) SHALL PUT YOU IN THE
+PICTURE OF THE BUSINESS, TELL YOU WHERE THE FUNDS ARE CURRENTLY BEING MAINTAINED
+AND ALSO DISCUSS OTHER MODALITIES INCLUDING REMUNERATION FOR YOUR SERVICES.
+
+FOR THIS REASON KINDLY FURNISH US YOUR CONTACT INFORMATION, THAT IS, YOUR
+PERSONAL TELEPHONE AND FAX NUMBERS AND CONTACT ADDRESS FOR NECESSARY VALIDATION
+PROCEDURES.
+
+PLEASE CONTACT ME THROUGH THE ABOVE E-MAIL ADDRESS sesesekomariam57@yahoo.com.hk,         
+
+BEST REGARDS,
+
+MRS. M. SESE SEKO.
+
+  

@@ -1,0 +1,52 @@
+
+
+Return-path: &lt;admhosting@vdc.com.vn&gt;
+Envelope-to: 
+Delivery-date: Mon, 27 Feb 2012 15:28:47 -0800
+Received: from [203.162.0.215] (helo=webserver1.vdc.com.vn)
+	by  with esmtp (Exim 4.69)
+	(envelope-from &lt;admhosting@vdc.com.vn&gt;)
+	id 1S29zp-0004Iy-EO
+	for ; Mon, 27 Feb 2012 15:28:47 -0800
+Received: from webserver1 ([127.0.0.1]) by webserver1.vdc.com.vn with MailEnable ESMTP; Tue, 28 Feb 2012 06:20:50 +0700
+Date: Tue, 28 Feb 2012 06:20:50 +0700
+Subject:  I represent a group of company based in united Kingdom and we are currently seeking means of expanding and relocating our investors business interest abroad.  If you think you have a solid background and idea of making good profit in any of the mentioned business sectors or any other business in your country, Please write me for possible business co-operation. Regards Mr George Adam.
+To: 
+From: Adams &lt;willybrownlie@virgilio.it&gt;
+Reply-To: adamsgeorge6@gmail.com
+MIME-Version: 1.0
+Content-Type: text/html
+Content-Transfer-Encoding: 8bit
+Message-ID: &lt;FDBF62B048F0454F9AC458CC18A046B2.MAI@webserver1.vdc.com.vn&gt;
+X-Spam-Subject: ***SPAM*** I represent a group of company based in united Kingdom and we are currently seeking means of expanding and relocating our investors business interest abroad.  If you think you have a solid background and idea of making good profit in any of the mentioned business sectors or any other business in your country, Please write me for possible business co-operation. Regards Mr George Adam.
+X-Spam-Status: Yes, score=7.8
+X-Spam-Score: 78
+X-Spam-Bar: +++++++
+X-Spam-Report: Spam detection software, running on the system "", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  [...] 
+	Content analysis details:   (7.8 points, 7.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.0 FREEMAIL_FROM          Sender email is commonly abused enduser mail provider
+	(willybrownlie[at]virgilio.it)
+	1.4 RCVD_IN_BRBL_LASTEXT   RBL: RCVD_IN_BRBL_LASTEXT
+	[203.162.0.215 listed in bb.barracudacentral.org]
+	0.0 HTML_MESSAGE           BODY: HTML included in message
+	0.8 BAYES_50               BODY: Bayes spam probability is 40 to 60%
+	[score: 0.5000]
+	0.7 MIME_HTML_ONLY         BODY: Message only has text/html MIME parts
+	0.4 HTML_MIME_NO_HTML_TAG  HTML-only message, but there is no HTML tag
+	0.8 RDNS_NONE              Delivered to internal network by a host with no rDNS
+	2.4 FREEMAIL_REPLYTO       Reply-To/From or Reply-To/body contain different
+	freemails
+	1.3 TO_NO_BRKTS_HTML_ONLY  To: misformatted and HTML only
+	0.0 TO_NO_BRKTS_NORDNS     To: misformatted and no rDNS
+	0.0 T_TO_NO_BRKTS_FREEMAIL To: misformatted and free email service
+X-Spam-Flag: YES
+
+[text in subject line]
+I represent a group of company based in united Kingdom and we are currently seeking means of expanding and relocating our investors business interest abroad.  If you think you have a solid background and idea of making good profit in any of the mentioned business sectors or any other business in your country, Please write me for possible business co-operation. Regards Mr George Adam.

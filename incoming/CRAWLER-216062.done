@@ -1,0 +1,59 @@
+
+
+Return-Path: &lt;profcharles-bean@bol.com.br&gt;
+Received: from compute1.internal (compute1.nyi.mail.srv.osa [10.202.2.41])
+	 by sloti14d5p3 (Cyrus git2.5+0-git-fastmail-7768) with LMTPA;
+	 Wed, 07 Mar 2012 07:18:51 -0500
+X-Sieve: CMU Sieve 2.4
+X-Spam-charsets: html='utf-8'
+X-Mail-from: profcharles-bean@bol.com.br
+Received: from mx4.nyi.mail.srv.osa ([10.202.2.203])
+ by compute1.internal (LMTPProxy); Wed, 07 Mar 2012 07:18:51 -0500
+Received: from a4-salsa2.bol.com.br (a4-salsa2.bol.com.br [200.147.97.217])
+	by mx4.nyi.mail.srv.osa (Postfix) with ESMTP id B5554180D26
+Wed,  7 Mar 2012 07:18:50 -0500 (EST)
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by a4-salsa2.bol.com.br (Postfix) with ESMTP id 3DFDF380008D;
+	Wed,  7 Mar 2012 09:18:49 -0300 (BRT)
+Received: from a4-salsa2.adm.intranet (localhost.localdomain [127.0.0.1])
+	by a4-salsa2.bol.com.br (Postfix) with ESMTP id 03B623800097;
+	Wed,  7 Mar 2012 09:17:50 -0300 (BRT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=bol.com.br; s=afl;
+	t=1331122729; bh=+QdE9Ghq8Prgy/E2f0S6F2tXbDRcq3eOMbSvkvuLLLA=;
+	h=Date:From:Message-Id:Subject:Mime-Version:Content-Type:To;
+	b=DI5djdMTqqYOJSLW243LI/xDtTSBYO3RkLi9lHfq0AZH9I1fS+kFiojHDNuVrgMx2
+	 ErRfQfcCjsRtSSNYGRDKXNim9AZQTcOpIYp6/l5taqcmu8SOtxTlvEBwTAmy+Lz5Sn
+	 HdNAhxIMJIYusj+HYYSX8Ejk8H6FrBUpEHh11JMM=
+Received: from bol.com.br (a4-winter3.host.intranet [10.131.133.129])
+	by a4-salsa2.adm.intranet (Postfix) with ESMTP id CC9FD3800091;
+	Wed,  7 Mar 2012 09:17:50 -0300 (BRT)
+Date: Wed, 7 Mar 2012 09:17:50 -0300
+From: Prof  charles  Bean &lt;profcharles-bean@bol.com.br&gt;
+Message-Id: &lt;4f5751eec8f09_282c3141c7c1d0@a4-winter3.tmail&gt;
+Subject: Hello,
+Mime-Version: 1.0
+Content-Type: text/html; charset=utf-8
+X-SenderIP: 197.255.166.93
+To: undisclosed-recipients:;
+X-SIG5: 8d0c643129af810c30580af4a309eb27
+X-Truedomain-Domain: bol.com.br
+X-Truedomain-SPF: Pass
+X-Truedomain-DKIM: Pass
+X-Truedomain-ID: 2FBA49C6311249D3A771A40214CEC8A6
+X-Truedomain: Neutral
+Hello,
+
+Employment Opportunity:  We are presently hiring and seeking new team members for light Part-Time duties.  An Applicant should have basic computer skills and always be in touch via e-mail.
+
+All you need is eagerness to work, 3 - 5 hours of spare time per day, and Internet access.
+
+Shifts are flexible.
+
+Interested candidates should email an inquiry to: profcharlesbean@live.com
+
+We will email you back within 24 hours.
+
+Thanks,
+
+Prof, Charles Bean.
+Deputy Governor The Bank of England.

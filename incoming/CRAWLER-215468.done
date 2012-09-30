@@ -1,0 +1,56 @@
+
+
+Return-Path: &lt;precious6mabou@gmail.com&gt;
+Received: from mail-ee0-f65.google.com (mail-ee0-f65.google.com [74.125.83.65])
+
+        (envelope-from precious6mabou@gmail.com)
+Received: by eekb15 with SMTP id b15so946497eek.4
+       for &lt;&gt;; Tue, 21 Feb 2012 11:48:33 -0800 (PST)
+Received-SPF: pass (google.com: domain of precious6mabou@gmail.com designates 10.14.132.203 as permitted sender) client-ip=10.14.132.203;
+Authentication-Results: mr.google.com; spf=pass (google.com: domain of precious6mabou@gmail.com designates 10.14.132.203 as permitted sender) smtp.mail=precious6mabou@gmail.com; dkim=pass header.i=precious6mabou@gmail.com
+Received: from mr.google.com ([10.14.132.203])
+       by 10.14.132.203 with SMTP id o51mr13439270eei.76.1329853713001 (num_hops = 1);
+       Tue, 21 Feb 2012 11:48:33 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+       d=gmail.com; s=gamma;
+       h=mime-version:sender:date:x-google-sender-auth:message-id:subject
+        :from:to:content-type;
+       bh=dAzRdRyYGDb38ImnjS8C+ADUE/KA+V5OgWEANZGhmFk=;
+       b=L41xZVpcm1T9nNq7O/H1AKfUFZRPLIeijnWk3bOIDVUyKgIZo8+CMdSXBfypoj+0lX
+        Y4wKOGUy0YwNEuJtwTdKLUpwUhUCcW2Kj8Cf18OFTb3DJcld3w87bRnawFQ7I16bzpgT
+        duqP64yloiqckW5QNHjd446/l/opqNfHAI4MM=
+MIME-Version: 1.0
+Received: by 10.14.132.203 with SMTP id o51mr10722331eei.76.1329853687761;
+Tue, 21 Feb 2012 11:48:07 -0800 (PST)
+Sender: precious6mabou@gmail.com
+Received: by 10.213.14.14 with HTTP; Tue, 21 Feb 2012 11:48:07 -0800 (PST)
+Date: Tue, 21 Feb 2012 19:48:07 +0000
+X-Google-Sender-Auth: hmGREA5rYEBwrLQLH-fi-xPgLGk
+Message-ID: &lt;CAOSo7iNyQf2O8wME7RMHkmkxDVAz6a0zPZ7iRWA-ey5KpJk=tw@mail.gmail.com&gt;
+Subject: hello
+From: precious mabou &lt;prcious_mabou12@yahoo.com&gt;
+To: prcious_mabou12@yahoo.com
+Content-Type: multipart/alternative; boundary=20cf30363daba999bf04b97eb04a
+X-Greylist: Default is to whitelist mail, not delayed by milter-greylist-4.2.3 
+
+--20cf30363daba999bf04b97eb04a
+Content-Type: text/plain; charset=ISO-8859-1
+
+Hello Dear
+How are you today i hope that everything is fine with you as it is my great
+pleasure to reach you for communication. I saw your contact email while
+making some research for reliable foreigner at (WEB) and i think we can
+click and become Pen Pal friends.
+Despite that we have not seen in person. I Hope we can make a good
+friendship, because the best place to be is by the side of a good friend. I
+believe that friendship is a gift that is fair in all things. It roots from
+one's heart and involves memories that stay not for a while but for a
+lifetime. " My heart welcomes you".
+I will be very happy if you should write me back through my email in (
+prcious_mabou12@yahoo.com ) for easy communication and to know all about
+each other, I will send you my pictures and more details about me,
+(Remember the distance,color or age  does not matter but our good heart and
+sincerity matters in life). I will be waiting to hear from you i wish you
+all the best for your day.  Always stay blessed from my deepest heart.
+Yours Affectionately,
+precious.

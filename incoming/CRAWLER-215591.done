@@ -1,0 +1,55 @@
+
+
+Not sure how much info I should put here.  This silly little "woman" just tried it on with me over buying a dry suit through gumtree.  The moment the fake mail arrived over payment I knew what "she" was up to.
+
+Feel free to annoy the shit out of "her" if you have the time.  I can't as "she" has all my work details so I have to walk away.
+
+I won't put the whole conversation. Just part of the message header and the original dry suit listing on gumtree (Yes I know I should have been wary because of the price but desperate for a dry suit under 100):  
+http://www.gumtree.com/p/for-sale/hunter-pro-sbx-400-scuba-diving-dry-suit/96477913
+
+ The mails were Parcel Force mails asking me to pay through a Pay Point then give "ParcelForce" the code then they would deliver, they apparently wouldn't take the payment until I gave them the go ahead!  How dumb do they think I am?
+
+I am hacked off as they have all my details and I don't have any of theirs.  I thought I was wise to all the scams but was sucked in until they produced the faked emails.
+
+
+Return-Path: &lt;a.dale0091@googlemail.com&gt;
+Received-SPF: pass (google.com: domain of a.dale0091@googlemail.com designates 10.68.197.196 as permitted sender) client-ip=10.68.197.196;
+Authentication-Results: mr.google.com; spf=pass (google.com: domain of a.dale0091@googlemail.com designates 10.68.197.196 as permitted sender) smtp.mail=a.dale0091@googlemail.com; dkim=pass header.i=a.dale0091@googlemail.com
+Received: from mr.google.com ([10.68.197.196])        by 10.68.197.196 with
+SMTP id iw4mr6390781pbc.133.1330016892547 (num_hops = 1);        Thu, 23 Feb
+2012 09:08:12 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+       d=googlemail.com; s=gamma;
+       h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+        :content-type;
+       bh=4QqUsJcroz6GkkP4VYo5l/2Y2WwMPlVPY8swwYI5NtQ=;
+       b=JllUPzj6zOGAgheLaBNrUSi2EnNTh7dsTuEDKJGDzAtR0ggS1j7ba/oPFuUp0GVfpO
+        yuIsY8hF+NHmpN5GM2reqEEHUXFYXAZpuvxH/BkqeUrvSN63HuFWPLU1lSD+HktV4rrh
+        udJu/bo/1WaIigwEWnY1sGaIX33+qc80E12K4=
+Received: by 10.68.197.196 with SMTP id iw4mr5341028pbc.133.1330016892413;
+Thu, 23 Feb 2012 09:08:12 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.142.170.12 with HTTP; Thu, 23 Feb 2012 09:07:52 -0800 (PST)
+
+From: Amy Dale &lt;a.dale0091@googlemail.com&gt;
+Date: Thu, 23 Feb 2012 17:07:52 +0000
+Message-ID: &lt;CAPoWsVDgLZusqd-99Q9yhJ9xr8ny_4YHk3RDO1Fe3n3efr+zTA@mail.gmail.com&gt;
+Subject: Re: Dry Suit - You have a deal.
+To: D***** W***** &lt;******@*******.co.uk&gt;
+Content-Type: multipart/alternative; boundary="e89a8ff1c8f86ae51804b9a4b0ae"
+X-MS-Exchange-Organization-AuthSource: SIFUKEXCH01.stayinfront.co.uk
+X-MS-Exchange-Organization-AuthAs: Anonymous
+X-GFI-SMTP-Submission: 1
+X-GFI-SMTP-HelloDomain: mail-pz0-f42.google.com
+X-GFI-SMTP-RemoteIP: 209.85.210.42
+
+From: Amy Dale [mailto:a.dale0091@googlemail.com] 
+Sent: 23 February 2012 17:08
+To: D***** W*****
+Subject: Re: Dry Suit - You have a deal.
+
+Great, I've just finished filling out the forms online and Parcel Force will handle payment as well. You should receive email notifications on how to proceed. Let me know if you receive them and also if you have other questions.
+Amy.
+
+
+Laughable email asked me to go to a shop with PayPoint and pay 50 then give parcelforce the coder over the internet.

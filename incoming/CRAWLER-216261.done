@@ -1,0 +1,94 @@
+
+
+Return-path: &lt;user@littlelake.k12.ca.us&gt;
+Envelope-to: 
+Delivery-date: Tue, 13 Mar 2012 03:16:03 -0700
+Received: from mail.littlelake.k12.ca.us ([206.114.182.23])
+	by with esmtps (TLSv1:AES256-SHA:256)
+	(Exim 4.69)
+	(envelope-from &lt;user@littlelake.k12.ca.us&gt;)
+	id 1S7Ola-00051J-F3
+	for ; Tue, 13 Mar 2012 03:16:03 -0700
+X-Spam-Status: No, hits=4.1 required=8.0
+	tests=AWL: 0.055,BAYES_40: -0.276,FORGED_MUA_OUTLOOK: 3.116,
+	MISSING_HEADERS: 1.292,MISSING_MID: 0.001,TOTAL_SCORE: 4.188,autolearn=no
+X-Spam-Level: ****
+X-Footer: bGl0dGxlbGFrZS5rMTIuY2EudXM=
+Received: from localhost ([127.0.0.1])
+	by mail.littlelake.k12.ca.us;
+	Tue, 13 Mar 2012 03:11:28 -0700
+Reply-To: &lt;intercontinental.atmunit@gmail.com&gt;
+From: "Intercontinental Bank Plc"&lt;user@littlelake.k12.ca.us&gt;
+Subject: Good News
+Date: Tue, 13 Mar 2012 06:07:01 -0400
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Spam-Subject: ***SPAM*** Good News
+X-Spam-Status: Yes, score=19.5
+X-Spam-Score: 195
+X-Spam-Bar: +++++++++++++++++++
+X-Spam-Report: Spam detection software, running on the system "", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  Intercontinental Bank Plc Plaza Dan mole Street Off Adeola
+	Odeku Victoria Island Lagos Direct Line: +234-809-708-0499 Our Ref: SH231363
+	Dear Customer, Following the resolution and settlement of the payment by
+	the United Nations in conjunction with the world bank/IMF, an irrevocable
+	instruction and authorization has been issued to us by the Secretary General
+	and the Governing body of the United Nations Debt Reconciliation Unit to
+	process and effect your over-due Contract/inheritance payment. [...] 
+	Content analysis details:   (19.5 points, 7.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.0 FSL_CTYPE_WIN1251      Content-Type only seen in 419 spam
+	0.6 FSL_XM_419             Old OE version in X-Mailer only seen in 419 spam
+	-0.5 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+	1.0 MISSING_HEADERS        Missing To: header
+	0.8 BAYES_50               BODY: Bayes spam probability is 40 to 60%
+	[score: 0.5000]
+	0.2 FSL_UA                 FSL_UA
+	0.5 MISSING_MID            Missing Message-Id: header
+	1.6 REPLYTO_WITHOUT_TO_CC  REPLYTO_WITHOUT_TO_CC
+	1.3 FROM_MISSP_MSFT        From misspaced + supposed Microsoft tool
+	2.6 FROM_MISSP_NO_TO       From misspaced, To missing
+	3.8 FROM_MISSPACED         From: missing whitespace
+	0.0 FROM_MISSP_REPLYTO     From misspaced, has Reply-To
+	1.3 TO_NO_BRKTS_FROM_MSSP  Multiple formatting errors
+	2.5 FROM_MISSP_EH_MATCH    From misspaced, matches envelope
+	1.0 TO_NO_BRKTS_MSFT       To: misformatted and supposed Microsoft tool
+	1.9 FORGED_MUA_OUTLOOK     Forged mail pretending to be from MS Outlook
+	0.8 ADVANCE_FEE_3_NEW      Appears to be advance fee fraud (Nigerian 419)
+	0.0 T_FILL_THIS_FORM_SHORT Fill in a short form with personal information
+	0.0 FORM_FRAUD_3           Fill a form and several fraud phrases
+X-Spam-Flag: YES
+
+Intercontinental Bank Plc
+Plaza Dan mole Street Off Adeola Odeku
+Victoria Island Lagos
+Direct Line: +234-809-708-0499
+Our Ref: SH231363
+
+Dear Customer,
+
+Following the resolution and settlement of the payment by the United Nations in conjunction with the world bank/IMF, an irrevocable instruction and authorization has been issued to us by the Secretary General and the Governing body of the United Nations Debt Reconciliation Unit to process and effect your over-due Contract/inheritance payment.
+
+Be informed that we have verified your payment agreement file as directed to us by the Ministry of finance; your name was discovered as next on the list of the outstanding beneficiary to received payment at this first quarter of the year 2012.  Be  informed that your payment is being processed and will be released to you as soon as you respond to this email. 
+Your therefore advised to Kindly reconfirm the information as stated below for proper authentication and immediate payment:
+
+Your Full Name:
+Complete mailing Address:
+Direct Telephone Numbers:
+Your exact inheritance Amount:
+
+Yours faithfully
+
+Mr. Daniel Amusan
+Director, foreign operations

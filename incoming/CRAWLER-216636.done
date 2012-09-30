@@ -1,0 +1,52 @@
+
+
+Received: by 10.112.150.105 with SMTP id uh9csp29445lbb;
+       Mon, 19 Mar 2012 08:58:38 -0700 (PDT)
+Received: by 10.68.225.70 with SMTP id ri6mr28561229pbc.88.1332172717641;
+       Mon, 19 Mar 2012 08:58:37 -0700 (PDT)
+Return-Path: &lt;dt.sophia09@yahoo.com.vn&gt;
+Received: from nm14.bullet.mail.ird.yahoo.com (nm14.bullet.mail.ird.yahoo.com. [77.238.189.67])
+       by mx.google.com with SMTP id r4si17283987pbi.185.2012.03.19.08.58.36;
+       Mon, 19 Mar 2012 08:58:37 -0700 (PDT)
+Received-SPF: neutral (google.com: 77.238.189.67 is neither permitted nor denied by best guess record for domain of dt.sophia09@yahoo.com.vn) client-ip=77.238.189.67;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 77.238.189.67 is neither permitted nor denied by best guess record for domain of dt.sophia09@yahoo.com.vn) smtp.mail=dt.sophia09@yahoo.com.vn; dkim=pass (test mode) header.i=@yahoo.com.vn
+Received: from [77.238.189.50] by nm14.bullet.mail.ird.yahoo.com with NNFMP; 19 Mar 2012 15:58:35 -0000
+Received: from [212.82.108.243] by tm3.bullet.mail.ird.yahoo.com with NNFMP; 19 Mar 2012 15:58:35 -0000
+Received: from [127.0.0.1] by omp1008.mail.ird.yahoo.com with NNFMP; 19 Mar 2012 15:58:35 -0000
+Received: (qmail 9151 invoked
+Return-Path: &lt;dt.sophia09@yahoo.com.vn&gt;
+X-YahooFilteredBulk: 106.10.149.7
+X-Originating-IP: [106.10.149.7]
+Authentication-Results: mta1076.mail.ird.yahoo.com  from=yahoo.com.vn; domainkeys=pass (ok);  from=yahoo.com.vn; dkim=pass (ok)
+Received: from 127.0.0.1  (HELO nm12-vm7.bullet.mail.sg3.yahoo.com) (106.10.149.7)
+ by mta1076.mail.ird.yahoo.com with SMTP; Mon, 19 Mar 2012 15:58:35 +0000
+Received: from [106.10.166.113] by nm12.bullet.mail.sg3.yahoo.com with NNFMP; 19 Mar 2012 15:58:32 -0000
+Received: from [106.10.151.239] by tm2.bullet.mail.sg3.yahoo.com with NNFMP; 19 Mar 2012 15:58:32 -0000
+Received: from [127.0.0.1] by omp1023.mail.sg3.yahoo.com with NNFMP; 19 Mar 2012 15:58:32 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 846304.37280.bm@omp1023.mail.sg3.yahoo.com
+Received: (qmail 93151 invoked by uid 60001); 19 Mar 2012 15:58:32 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com.vn; s=s1024; t=1332172712; bh=oGo9sw+LHfVyuh6jIx+JUKnsups2v/RGMSK/0OaG5l0=; h=X-YMail-OSG:Received:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type; b=Yf9xCaz45B7JGpa8m/KlV4egTaWS9xNKFpM5Uw/ihLCeAAcKuw62gCI2r9D3BABB+eSOdfeDCAAEIDtZxORYkhfh1MzkPYCsjDMn+4ACDTz2wWofecGB9lb4dabpek3hMg6kM80kWtC4+pXbVAMPmJ6uB55fI336BnYBUymJ1Jg=
+DomainKey-Signature:a=r
+Received: from [41.203.225.149] by web190306.mail.sg3.yahoo.com via HTTP; Mon, 19 Mar 2012 23:58:32 SGT
+X-Mailer: YahooMailClassic/15.0.5 YahooMailWebService/0.8.116.338427
+Message-ID: &lt;1332172712.91877.YahooMailClassic@web190306.mail.sg3.yahoo.com&gt;
+Date: Mon, 19 Mar 2012 23:58:32 +0800 (SGT)
+From: D T sophia &lt;dt.sophia09@yahoo.com.vn&gt;
+Reply-To: dt.sophia@gmx.com
+Subject: Good day,
+To: undisclosed recipients: ;
+Good day,
+
+warmest greetings to you. We know that our mail will be surprising to you since you do not know me and my brother, please, we are very sorry if we disturb your privacy. We really wish to contact you for a business venture which we intend to establish with you.
+
+The reason why we have contacted you this way is because of the urgency needed and pressure which we are now facing to find some one to help us. Our Late father before he died deposited a huge amount Ten million, Five Hundred Thousand United States Dollars (US$10.5Million) in one of the leading bank here in Ouagadougou Burkina-Faso. I and my younger brother are looking for your help to guide us on how this money will be transferred abroad so that we can move out of here to continue our education in your country while you take charge of the investment with this money.
+
+We are humbly seeking your godly assistance in the following ways; to provide an account into which this money would be transferred and to serve as a guardian of this money since we are Orphans and still very young.
+
+If you can be of an assistance to us, we will be pleased to offer to you 30% of the total money. Please, we are waiting for your response urgently so that we can discuss more with you.
+
+God Bless you abundantly
+
+Yours Sincerely,
+Miss. Sophia and David Tagro.

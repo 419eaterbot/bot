@@ -1,0 +1,58 @@
+
+
+Received: by 10.68.125.166 with SMTP id mr6csp17540pbb;
+       Thu, 23 Feb 2012 02:50:59 -0800 (PST)
+Received: by 10.68.213.232 with SMTP id nv8mr1865379pbc.155.1329994259804;
+       Thu, 23 Feb 2012 02:50:59 -0800 (PST)
+Return-Path: &lt;noticedept@optus.net&gt;
+Received: from nm5.bullet.mail.ird.yahoo.com (nm5.bullet.mail.ird.yahoo.com. [77.238.189.62])
+       by mx.google.com with SMTP id o6si1424416pba.318.2012.02.23.02.50.58;
+       Thu, 23 Feb 2012 02:50:59 -0800 (PST)
+Received-SPF: neutral (google.com: 77.238.189.62 is neither permitted nor denied by domain of noticedept@optus.net) client-ip=77.238.189.62;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 77.238.189.62 is neither permitted nor denied by domain of noticedept@optus.net) smtp.mail=noticedept@optus.net; dkim=pass (test mode) header.i=@yahoo.com
+Received: from [77.238.189.234] by nm5.bullet.mail.ird.yahoo.com with NNFMP; 23 Feb 2012 10:50:58 -0000
+Received: from [212.82.108.122] by tm15.bullet.mail.ird.yahoo.com with NNFMP; 23 Feb 2012 10:50:58 -0000
+Received: from [127.0.0.1] by omp1031.mail.ird.yahoo.com with NNFMP; 23 Feb 2012 10:50:58 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 70746.69440.bm@omp1031.mail.ird.yahoo.com
+Received: (qmail 7962 invoked by uid 6007); 23 Feb 2012 10:50:58 -0000
+DKIM-Signature: v=1; a=rsa-sh
+Return-Path: &lt;noticedept@optus.net&gt;
+X-YahooFilteredBulk: 211.29.132.187
+X-Originating-IP: [211.29.132.187]
+Authentication-Results: mta1019.mail.ird.yahoo.com  from=optus.net; domainkeys=neutral (no sig);  from=optus.net; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO mail06.syd.optusnet.com.au) (211.29.132.187)
+ by mta1019.mail.ird.yahoo.com with SMTP; Thu, 23 Feb 2012 10:50:52 +0000
+Received: from localhost.localdomain (webmail10.syd.optusnet.com.au [211.29.133.172])
+	by mail06.syd.optusnet.com.au (8.13.1/8.13.1) with ESMTP id q1NAoWuN004152;
+	Thu, 23 Feb 2012 21:50:32 +1100
+Message-Id: &lt;201202231050.q1NAoWuN004152@mail06.syd.optusnet.com.au&gt;
+Content-Type: text/plain
+Content-Disposition: inline
+Content-Transfer-Encoding: binary
+Mime-Version: 1.0
+X-Mailer: MIME-tools 5.420 (Entity 5.420)
+Received: from 178-162-131-60.local ([178.162.131.60]) by
+   webmail10.syd.optusnet.com.au with http (user=paulbailes@optusnet.com.au);
+   Thu, 23 Feb 2012 21:50:32 +1100
+From: UK National Lottery &lt;noticedept@optus.net&gt;
+Date: Thu, 23 Feb 2012 21:50:32 +1100
+Subject: Email Notice
+Reply-To: uknl_mr.jerrywakefield@ovi.com
+
+UK NATIONAL LOTTERY DESK
+Reference No: ACCU/2012-200
+Operation Code No: A333/ZZ5
+
+We use this medium to notify you of the lottery prize
+of 500,000 GPB (Five hundred thousand pounds sterling)
+won by your email in the UK National Lottery online
+promotions.
+Contact the claims officer below via email:
+
+Mr. Jerry Wakefield,
+Tel: 0044 70457 58068
+Email: uknl_mr.jerrywakefield@ovi.com
+
+Regards,
+Notification Department.

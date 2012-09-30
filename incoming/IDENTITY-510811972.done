@@ -1,0 +1,41 @@
+From: MAILER-DAEMON@yahoo.com
+To: ethanstokes51@yahoo.co.uk
+Date: Sun, 18 Mar 2012 00:17:55 -0000
+Subject: Failure Notice
+
+Sorry, we were unable to deliver your message to the following address.
+
+<info@promo.co.uk>:
+Mail server for "promo.co.uk" unreachable for too long
+
+--- Below this line is a copy of the message.
+
+Received: from [77.238.189.49] by nm11.bullet.mail.ird.yahoo.com with NNFMP; 17 Mar 2012 00:16:04 -0000
+Received: from [217.146.188.154] by tm2.bullet.mail.ird.yahoo.com with NNFMP; 17 Mar 2012 00:16:04 -0000
+Received: from [127.0.0.1] by smtp101.mail.ird.yahoo.com with NNFMP; 17 Mar 2012 00:16:04 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.co.uk; s=s1024; t=1331943364; bh=NfB3Tod99s+gfCQJYW/4z2L2kElDSUyRMneXz9sXzx4=; h=X-Yahoo-Newman-Id:Message-ID:Date:X-Yahoo-Newman-Property:X-YMail-OSG:X-Yahoo-SMTP:Received:Content-Type:MIME-Version:Content-Transfer-Encoding:From:To:To:Subject; b=jrLyH/MqfbzSVZ0MqNlMt55F1nFKKG50kLsOyEspy6iollMtN5gIF2LUgp94mznJGIPJo6HujcbrGDsw9vtyi3Rj/f4AzeXehHLMI1McO5nvroBbxZ/QRDmKzwTulxP5prRQYxYhbkRebddPj0vrp3vFd8E5VOp97t2NeNN0adA=
+X-Yahoo-Newman-Id: 638262.89524.bm@smtp101.mail.ird.yahoo.com
+Message-ID: <638262.89524.bm@smtp101.mail.ird.yahoo.com>
+Date: Fri, 16 Mar 2012 17:16:04 -0700 (PDT)
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: p_V9PzgVM1kvkP40gSW8WnvhroI.Jx_nCX.taREQqct.KwZ
+ 8YjkX0rMjVoHAmeAZNYuVN4gUIUXCxh5t8IqqKFOPmgJpw1fL9Y3p8v2QXxX
+ pW.j8VL.tXZCt4RjTfP9XF.YD4MdYmD.KqVLb5VZn81klQnVvviZpBYCIyXD
+ tiy5EpF0HzopPTJP1bS6LBcmaQJygX.swJxS8diB8ZRa439xxeEky4jLhWdG
+ pPkzzP2zLSrqq7o4HiWKpHndZxN.65hfpXiYpYFcL7ajLVoJasSJ2HMAWd0K
+ Ab6fM3WJw93Fle77H0xPUOAmj8BoflfvzMigv9CZ0SC8LQNjpHA0rGxrn76W
+ 9OyCOzlmMPqhDhTNerfI74VHNElQGAw--
+X-Yahoo-SMTP: R2ffMk.swBA8hm7MBB2OHwF8l3n06jNUxRU-
+Received: from logain.clustered.net (ethanstokes51@89.145.84.36 with plain)
+        by smtp101.mail.ird.yahoo.com with SMTP; 16 Mar 2012 17:16:04 -0700 PDT
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+From: Ethan Stokes <ethanstokes51@yahoo.co.uk>
+To: info@promo.co.uk
+To: bnl.lotteryagent2@yahoo.co.uk
+Subject: 
+
+I am terribly sorry, but I accidentally deleted your email before I had the chance to read it. Please resend it?
+Best Regards,
+Ethan

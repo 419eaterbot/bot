@@ -1,0 +1,67 @@
+
+
+Return-path: &lt;westernunion@westernunion.com&gt;
+Envelope-to: 
+Delivery-date: Wed, 15 Feb 2012 18:17:19 -0800
+Received: from mail.cyfilms.com.tw ([61.221.67.50] helo=dns.cyfilms.com.tw)
+	by  with esmtp (Exim 4.69)
+	(envelope-from &lt;westernunion@westernunion.com&gt;)
+	id 1RxquI-0005PZ-Qt
+	for ; Wed, 15 Feb 2012 18:17:19 -0800
+Received: from dns.cyfilms.com.tw (localhost [127.0.0.1])
+	by dns.cyfilms.com.tw (Postfix) with ESMTP id 7FAB0554A90D;
+	Wed, 15 Feb 2012 22:39:04 +0800 (CST)
+Received: from dns.cyfilms.com.tw (localhost [127.0.0.1])
+	by dns.cyfilms.com.tw (Postfix) with ESMTP id 9E47C554538E;
+	Wed, 15 Feb 2012 20:16:15 +0800 (CST)
+From: "WESTERN UNION MONEY TRANSFER" &lt;Westernunion@Westernunion.com&gt;
+Reply-To: charlie.palmer21@yahoo.com.hk
+Subject: Contact Name;=?BIG5?Q?_Charlie_Palmer_=A2G?=50,000 British pound
+Date: Wed, 15 Feb 2012 20:16:15 +0800
+Message-Id: &lt;20120215102112.M94218@Westernunion.com&gt;
+X-Mailer: OpenWebMail 2.52 20060502
+X-OriginatingIP: 41.203.64.129 (cyfilms)
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset=big5
+To: undisclosed-recipients:;
+X-NetStation-Status: PASS
+X-NetStation-SPAM: 0.00/4.00-7.00
+X-Spam-Subject: ***SPAM*** Contact Name; Charlie Palmer G50,000 British pound
+X-Spam-Status: Yes, score=14.7
+X-Spam-Score: 147
+X-Spam-Bar: ++++++++++++++
+X-Spam-Report: Spam detection software, running on the system "", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  Please be informed that you have G50,000 British pound Lodged
+	in our Western Union to transfer to you as winner of commonwealth Lottery
+	Jackpot. Contact Name; Charlie Palmer Telephone: +447035968163, Contact Email:
+	charlie.palmer19@yahoo.com.hk Contact Email: charlie.palmer41@yahoo.com.hk
+	[...] 
+	Content analysis details:   (14.7 points, 7.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	2.7 RCVD_IN_PSBL           RBL: Received via a relay in PSBL
+	[61.221.67.50 listed in psbl.surriel.com]
+	1.4 RCVD_IN_BRBL_LASTEXT   RBL: RCVD_IN_BRBL_LASTEXT
+	[61.221.67.50 listed in bb.barracudacentral.org]
+	0.8 SPF_NEUTRAL            SPF: sender does not match SPF record (neutral)
+	1.2 FREEMAIL_REPLYTO_END_DIGIT Reply-To freemail username ends in digit
+	(charlie.palmer21[at]yahoo.com.hk
+	)
+	0.8 BAYES_50               BODY: Bayes spam probability is 40 to 60%
+	[score: 0.5000]
+	3.3 LOTTERY_PH_004470      LOTTERY_PH_004470
+	2.1 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+	2.4 FREEMAIL_REPLYTO       Reply-To/From or Reply-To/body contain different
+	freemails
+	0.0 T_TO_NO_BRKTS_FREEMAIL To: misformatted and free email service
+X-Spam-Flag: YES
+
+Please be informed that you have G50,000 British pound Lodged in our Western 
+Union to transfer to you as winner of commonwealth Lottery Jackpot. Contact 
+Name; Charlie Palmer Telephone: +447035968163, Contact Email: 
+charlie.palmer19@yahoo.com.hk Contact Email: charlie.palmer41@yahoo.com.hk

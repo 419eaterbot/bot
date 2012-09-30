@@ -1,0 +1,64 @@
+
+
+Return-path: &lt;yoshida@fukuoka-pu.ac.jp&gt;
+Envelope-to: 
+Delivery-date: Wed, 15 Feb 2012 04:43:16 -0800
+Received: from fpu-vs.fukuoka-pu.ac.jp ([202.236.111.232])
+	by  with esmtp (Exim 4.69)
+	(envelope-from &lt;yoshida@fukuoka-pu.ac.jp&gt;)
+	id 1RxeCW-0005Oi-Ei
+	for ; Wed, 15 Feb 2012 04:43:16 -0800
+Received: from fukuoka-pu.ac.jp (unknown [10.16.1.2])
+	by fpu-vs.fukuoka-pu.ac.jp (Postfix) with SMTP id ED2B9776B7;
+	Wed, 15 Feb 2012 21:39:14 +0900 (JST)
+MIME-Version: 1.0
+Message-ID: &lt;20120215124051.000018BD.0598@fukuoka-pu.ac.jp&gt;
+Date: Wed, 15 Feb 2012 21:40:51 +0900
+From: "Mr Park Zihao" &lt;yoshida@fukuoka-pu.ac.jp&gt;
+To: &lt;infor@yahoo.com&gt;
+Reply-To: &lt;parkzihao7@w.cn&gt;
+Subject: Requesting For Your Partnership
+Content-Type: Text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+ORGANIZATION: parkzihao@w.cn
+X-MAILER: Active! mail
+X-Spam-Status: No, score=5.3
+X-Spam-Score: 53
+X-Spam-Bar: +++++
+X-Ham-Report: Spam detection software, running on the system "", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  Dear Friend, I am Mr Park Zihao, an Account Officer With the
+	International bank of Taipei,I have a very sensitive and confidential brief
+	for you from international bank of Taipei, Taiwan. I am requesting for your
+	partnership in re- profiling funds I will give you details, but in summary,the
+	funds are coming via Bank Of Taipei Taiwan. [...] 
+	Content analysis details:   (5.3 points, 7.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	-0.5 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+	2.6 DEAR_FRIEND            BODY: Dear Friend? That's not very dear!
+	-0.0 BAYES_40               BODY: Bayes spam probability is 20 to 40%
+	[score: 0.2436]
+	0.0 T_HK_NAME_MR_MRS       T_HK_NAME_MR_MRS
+	2.4 FREEMAIL_REPLYTO       Reply-To/From or Reply-To/body contain different
+	freemails
+	0.0 ADVANCE_FEE_4_NEW      Appears to be advance fee fraud (Nigerian 419)
+	0.8 ADVANCE_FEE_3_NEW      Appears to be advance fee fraud (Nigerian 419)
+X-Spam-Flag: NO
+
+Dear Friend,
+
+I am Mr Park Zihao, an Account Officer With the International bank of Taipei,I have a very sensitive and confidential brief for you from international bank of Taipei, Taiwan. I am requesting for your partnership in re- profiling funds I will give you details, but in summary,the funds are coming via Bank Of Taipei Taiwan.
+
+This is a legitimate transaction, You will be paid 30% for Management Fees. If you are interested, please write back and provide me with your confidential telephone and fax  numbers, and I will provide further details and  instruction. please keep this confidential, as we can't afford more political problem. Finally, please note that this must be concluded within two weeks. Please write back promptly via this confidential email address
+{parkzihao7@w.cn} for further information
+I look forward to it.
+
+Regards,
+Mr Park Zihao
+
+Email: parkzihao7@w.cn

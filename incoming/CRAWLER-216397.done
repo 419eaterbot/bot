@@ -1,0 +1,45 @@
+
+
+Received: by 10.182.128.98 with SMTP id nn2csp48106obb;
+       Thu, 15 Mar 2012 02:20:03 -0700 (PDT)
+Received: by 10.180.79.231 with SMTP id m7mr13789802wix.11.1331803202460;
+       Thu, 15 Mar 2012 02:20:02 -0700 (PDT)
+Return-Path: &lt;mike.paxton@gmx.com&gt;
+Received: from nm4.bullet.mail.ukl.yahoo.com (nm4.bullet.mail.ukl.yahoo.com. [217.146.182.225])
+       by mx.google.com with SMTP id ex3si1443006wib.5.2012.03.15.02.20.01;
+       Thu, 15 Mar 2012 02:20:02 -0700 (PDT)
+Received-SPF: fail (google.com: domain of mike.paxton@gmx.com does not designate 217.146.182.225 as permitted sender) client-ip=217.146.182.225;
+Authentication-Results: mx.google.com; spf=hardfail (google.com: domain of mike.paxton@gmx.com does not designate 217.146.182.225 as permitted sender) smtp.mail=mike.paxton@gmx.com; dkim=pass (test mode) header.i=@yahoo.com
+Received: from [217.146.183.213] by nm4.bullet.mail.ukl.yahoo.com with NNFMP; 15 Mar 2012 09:20:01 -0000
+Received: from [217.146.183.35] by tm6.bullet.mail.ukl.yahoo.com with NNFMP; 15 Mar 2012 09:20:01 -0000
+Received: from [127.0.0.1] by omp1024.mail.ukl.yahoo.com with NNFMP; 15 Mar 2012 09:20:01 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 736606.45589.bm@omp1024.mail.ukl.yahoo.com
+Received: (qmail 23273 invoked by uid 6007); 15 Mar 2012 09:20:01 -0000
+DKIM-Signature: v=1; a=rsa
+Return-Path: &lt;mike.paxton@gmx.com&gt;
+X-YahooFilteredBulk: 213.165.64.42
+X-Originating-IP: [213.165.64.42]
+Authentication-Results: mta1042.mail.ukl.yahoo.com  from=gmx.com; domainkeys=neutral (no sig);  from=gmx.com; dkim=neutral (no sig)
+Received: from 127.0.0.1  (HELO mailout-eu.gmx.com) (213.165.64.42)
+ by mta1042.mail.ukl.yahoo.com with SMTP; Thu, 15 Mar 2012 09:20:01 +0000
+Received: (qmail 3130 invoked by uid 0); 15 Mar 2012 09:13:20 -0000
+Received: from 41.139.102.187 by rms-eu005.v300.gmx.net with HTTP
+Content-Type: multipart/alternative;
+boundary="========GMXBoundary194061331802800156694"
+Date: Thu, 15 Mar 2012 10:13:19 +0100
+From: "mike paxton" &lt;mike.paxton@gmx.com&gt;
+Message-ID: &lt;20120315091320.194060@gmx.com&gt;
+
+Good Day,
+
+I am Barrister Mark Paxton, Attorney at law. A deceased client of mine that
+shares the same last name as yours died in Accident on 22nd April 2004,I have
+contacted you to assist me as I promise to give you 40% of the total funds
+$15,000.000.00 to be transferred to your vital bank account as
+compensation for your assistance left behind by my late client lodged in
+the bank(Guaranty Trust Bank Plc)
+
+Best Regards
+Barrister Mark Paxton
+markpaxton2012@gmail.com

@@ -1,0 +1,65 @@
+
+
+Return-path: &lt;web.office_876900078.008@verizon.net&gt;
+Envelope-to: 
+Delivery-date: Mon, 19 Mar 2012 12:53:39 -0700
+Received: from nm12-vm0.bullet.mail.sp2.yahoo.com ([98.139.91.242])
+	by m with smtp (Exim 4.69)
+	(envelope-from &lt;web.office_876900078.008@verizon.net&gt;)
+	id 1S9ie7-00025M-D8
+	for ; Mon, 19 Mar 2012 12:53:39 -0700
+Received: from [98.139.91.67] by nm12.bullet.mail.sp2.yahoo.com with NNFMP; 19 Mar 2012 19:53:33 -0000
+Received: from [68.142.200.224] by tm7.bullet.mail.sp2.yahoo.com with NNFMP; 19 Mar 2012 19:53:33 -0000
+Received: from [66.94.237.111] by t5.bullet.mud.yahoo.com with NNFMP; 19 Mar 2012 19:53:33 -0000
+Received: from [127.0.0.1] by omp1016.access.mail.mud.yahoo.com with NNFMP; 19 Mar 2012 19:53:33 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 850110.46670.bm@omp1016.access.mail.mud.yahoo.com
+Received: (qmail 26348 invoked by uid 60001); 19 Mar 2012 19:53:33 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1332186813; bh=H1Ejnp0thvJDn613yGaLaMtatQy3XNh7JswpVkk6ueM=; h=X-YMail-OSG:Received:X-Mailer:Message-ID:Date:From:Reply-To:To:MIME-Version:Content-Type; b=QX3H+fzTxiqfxZcW7CrPbqIQGWLAQyVDQJe00vEhGYVGgGzojgT8qG16HNk357S7cGkV1+KcUYjaot+Mz7auC+JvgQ7I/we4AgqxqVGOu2Fk2WRMcwJKlRUc0qayYi5IhgxNK4gCcNsMQm6sg8sR9/ZMX3WeqVN0owAJpQUWgg8=
+X-YMail-OSG: Zpwdwa8VM1n8.OfNkugPGhoc42HdSM0BsAI7OmSvS6RjGdr
+UI7ylJV3qSaZdd0YRLrmCPn8MDn3st2mc2LpdK9hIAM6tnY_xL1ymbKFfC7d
+tUzjw.Mroi0XHSLqhMf4z6Zq.zrybUdDmleLl5YOn6PY2wGFype3n2FrVSS3
+azui2Dp0EB.8ph5JnpXat_scFz_mntqrvtJUU4kqUI47KHBps4ukQ.GIe9T7
+15GDKdjd6qs9Me05o.rHRlo1g1ArDcW5tZeKkD8muS8P_vsqWZYMtgC3YbkO
+7.ZZIDgtBzFtf86FfMrokv.xK3Ych0_XqNBXvQMp6g5Z3YpQLeAF6qRe4p3d
+87Uj9kK_bLvmlDs8i0kLvov8o6_I9LkhMYwPncD.1MVfwEds8_HbzojRI9j_
+_fJP2xDgVD1lnK84sho4_jX8N9GXEwinaLY4yLT.qaH62l2VJZLGZoHipg1t
+s2Naah2LpGsXZDyyoyqyY8MVKyOqo8Ho8W4zLF1.G
+Received: from [41.71.175.163] by web84404.mail.ac2.yahoo.com via HTTP; Mon, 19 Mar 2012 12:53:33 PDT
+X-Mailer: YahooMailClassic/15.0.5 YahooMailWebService/0.8.116.338427
+Message-ID: &lt;1332186813.76269.YahooMailClassic@web84404.mail.ac2.yahoo.com&gt;
+Date: Mon, 19 Mar 2012 12:53:33 -0700 (PDT)
+From: "LOAN OFFER @3%" &lt;web.office_876900078.008@verizon.net&gt;
+Reply-To: fmf777777777@gmail.com
+To: undisclosed recipients: ;
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="157892144-1066500306-1332186813=:76269"
+X-Spam-Status: No, score=2.9
+X-Spam-Score: 29
+X-Spam-Bar: ++
+X-Ham-Report: Spam detection software, running on the system "", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  Do you need a loan? E-mail us now. Do you need a loan? E-mail
+	us now. [...] 
+	Content analysis details:   (2.9 points, 7.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	-0.0 RCVD_IN_DNSWL_NONE     RBL: Sender listed at http://www.dnswl.org/, no
+	trust
+	[98.139.91.242 listed in list.dnswl.org]
+	0.8 SPF_NEUTRAL            SPF: sender does not match SPF record (neutral)
+	0.0 HTML_MESSAGE           BODY: HTML included in message
+	0.8 BAYES_50               BODY: Bayes spam probability is 40 to 60%
+	[score: 0.4835]
+	1.8 MISSING_SUBJECT        Missing Subject: header
+	-0.5 AWL                    AWL: From: address is in the auto white-list
+X-Spam-Flag: NO
+
+--157892144-1066500306-1332186813=:76269
+Content-Type: text/plain; charset=us-ascii
+
+
+Do you need a loan? E-mail us now.

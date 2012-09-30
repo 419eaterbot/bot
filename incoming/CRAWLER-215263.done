@@ -1,0 +1,46 @@
+
+
+Hello
+Wednesday, February 15, 2012 8:54 AM
+From Mariet Cisse Wed Feb 15 06:54:37 2012
+X-Apparently-To: 		 via 67.195.15.112; Wed, 15 Feb 2012 06:54:39 -0800
+Return-Path: 		&lt;withtrust@hotmail.fr&gt;
+Received-SPF: 		softfail (transitioning domain of hotmail.fr does not designate 77.238.189.208 as permitted sender) ciAsCiAKSSBhbSBpbmRlZWQgZ2xhZCB0byBiZSBpbiBjb250YWN0IHdpdGgg eW91IGV2ZW4gdGhvdWdoIHRoaXMgbWVkaXVtIG9mIGNvbW11bmljYXRpb24g KGludGVybmV0KSBoYXMgYmVlbiBncm9zc2x5IGFidXNlZCBieSBzb21lIHBl b3BsZSBtYWtpbmcgaXQgZGlmZmljdWx0IGZvciBvdGhlciBvbmNlIHdpdGgg Z2VudWluZSBzdHJ1Z2dsZSB0byBjb3JyZXNwb25kIGFuZCBleGNoYW5nZQEw AQEBAQ--
+X-YMailISG: 		z9ZgRuUWLDvdAUTJT8s7rsrXWwJaZgPqlgj5FLkMUDGQBY6u 9airuXVW5jFsy0y.8BJOmSpdBCiS2_cUPDosOgUBHJnk2nEFqqZxGuB72QSg m7YB0eivoJJLvlXpbUmFMrlmtsDPU0dMYMvOzFgABGcVBTDTQ7Pzeb.L4YFO v477YM_gpE.LMs2rWxjsY459bHlzQkZ1lXcTdzS_aIOQ2S8Hb4KOUlENJQFu D0LE3Trpj.Mm9L_BKWbwkeC.QId7Qh4ENzEB3vasRl7ZIBbsAZNfOdMv.dNa JAWE_wz8it_jEauYyGP23Nw7.tUS885KkF6.nST7RPGfGPZt9KT2.YOz8Mip bnnA8GlbsKGJpBexWn88IGmQExH.2.mIe3Fdj4.hsX_WAuqw8vZG6XseZtLf CEWK
+X-Originating-IP: 		[77.238.189.208]
+Authentication-Results: 		mta1075.sbc.mail.sp1.yahoo.com from=hotmail.fr; domainkeys=neutral (no sig); from=yahoo.com; dkim=pass (ok)
+Received: 		from 204.127.217.85 (EHLO fgateway15.isp.att.net) (204.127.217.85) by mta1075.sbc.mail.sp1.yahoo.com with SMTP; Wed, 15 Feb 2012 06:54:38 -0800
+Received: 		from nm19-vm1.bullet.mail.ird.yahoo.com ([77.238.189.208]) by att.net (frfwmxc15) with SMTP id &lt;20120215145438f0100m5t1ee&gt;; Wed, 15 Feb 2012 14:54:38 +0000
+X-Originating-IP: 		[77.238.189.208]
+Received: 		from [77.238.189.51] by nm19.bullet.mail.ird.yahoo.com with NNFMP; 15 Feb 2012 14:54:37 -0000
+Received: 		from [212.82.108.119] by tm4.bullet.mail.ird.yahoo.com with NNFMP; 15 Feb 2012 14:54:37 -0000
+Received: 		from [127.0.0.1] by omp1028.mail.ird.yahoo.com with NNFMP; 15 Feb 2012 14:54:37 -0000
+X-Yahoo-Newman-Property: 		ymail-5
+X-Yahoo-Newman-Id: 		549676.12315.bm@omp1028.mail.ird.yahoo.com
+Received: 		(qmail 33914 invoked by uid 60001); 15 Feb 2012 14:54:37 -0000
+DKIM-Signature: 		v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.com; s=s1024; t=1329317677; bh=vxjph0scNYxY2OeIVvOIE0DYbuI0w4OxA+zk8q1I2Ek=; h=X-YMail-OSG:Received:X-RocketYMMF:X-Mailer:Message-ID:Date:From:Reply-To:Subject:To:MIME-Version:Content-Type:Content-Transfer-Encoding; b=4q/MqHgZdsO7d8I5VR4lfLaeSrsDQ3glcXsD7p3n3qH4FJOEfKo0QjRfGlppP3iMrcweVK0zaFHO9JdtvtG3K2KLbLS9W5DX7ZPne0qPNG7XxcQmEoDkbd0zz41eQbbnfEMoO49d91JzeuF+PfhnXXBwOxgVWGCu6T1LP/NMtlo=
+X-YMail-OSG: 		8Hk..HMVM1mGdErwMNNZDG0WHpsgyPDJvHw5Xmypa8w0abb 4voXNi99S5w4tcqtHGIwRF48AHLnN0nl6LtK91MTlfpX2Ki54kDg7wQfyF8i X4WJ_oWYNrIJvD0B9fu9_P8iifBAd.UY39yTM9fdHY7s1Lrmha3z0ueWBQLl l87eAJIyA5CVJMg8aKGMT_VyAsXPwE90XxRXrSZCZ_I4e9.k3eQWjdIOhLyy 9qBeUqaf0k0NJ6Mdw0oVe8I9agk.7mMls8FD2x62L7IBL83ul4ACnJil4lBv BF5SNM3AWOVmbyycNblsaYhbUPEKzb1vhJSw4Bb5cQU8T1.c.gX1skZLN4xu s0fxlQxJWqc07BeMnnmmPmm0tNSKqB_BbROZgxNR8d7mUUDxehpwplsaHfra t15QkavkMDR_JkXiFWKBp7yvByPYmXvfs_z44qRmcy6CvpvRoYHgmWkEjEYa bKEAAY2e5ZUB67fLxqgCtu1zY.eo_KtoBKGQMxFj52CMd1Xyr8ME04MoSQ33 4pbcJnk0zjBcJ3Q--
+Received: 		from [41.207.29.134] by web171316.mail.ir2.yahoo.com via HTTP; Wed, 15 Feb 2012 14:54:37 GMT
+X-Mailer: 		YahooMailClassic/15.0.4 YahooMailWebService/0.8.116.338427
+Message-ID: 		&lt;1329317677.32531.YahooMailClassic@web171316.mail.ir2.yahoo.com&gt;
+Date: 		Wed, 15 Feb 2012 14:54:37 +0000 (GMT)
+From: 		
+Mariet Cisse &lt;withtrust@hotmail.fr&gt;  
+Add sender to Contacts
+Reply-To: 		marietcisse2011@hotmail.fr
+Subject: 		Hello
+To: 		undisclosed recipients: ;
+MIME-Version: 		1.0
+Content-Type: 		text/plain; charset=utf-8
+Content-Transfer-Encoding: 		quoted-printable
+Content-Length: 		1296
+Compact Headers
+My sincere greetings to you,
+
+Hello Dear ,
+
+I am indeed glad to be in contact with you even though this medium of communication (internet) has been grossly abused by some people making it difficult for other once with genuine struggle to correspond and exchange views without skepticism.
+I got your contact from the internet and that is why I decided to
+contacted you; hence it is the cheapest way for todays communication. The recent presidential election of November, 28th 2010 in Republic of Cote dIvoire which resulted civil war that just ended last few month ago caused a lot of people to be homeless, parentless and many more. I am 19yrs old girl and sincerely wish to inform you that I will like your assistance in investing in your country as to enable me relocate here to continue my education as the only child of my parents; I lost my father during the civil war because he was suspected to have rendered financial assistance to former president and his elites and my mother died when I was only 4years old. Please let me know your willingness in this project so that I can furnish you with every detail needed. Mean while i have attached my picture and hoping that you will send yours in your next mail.
+Sincerely,
+Miss. Mariet Cisse.

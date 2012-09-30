@@ -1,0 +1,12 @@
+bank
+payment
+paying
+approved
+affidavit
+remit
+attorney
+the sum of
+charge
+wire transfer
+fee
+service charge

@@ -1,0 +1,44 @@
+
+
+Received: by 10.182.128.98 with SMTP id nn2csp15971obb;
+       Sat, 17 Mar 2012 14:53:43 -0700 (PDT)
+Received: by 10.180.82.132 with SMTP id i4mr8496722wiy.12.1332021223109;
+       Sat, 17 Mar 2012 14:53:43 -0700 (PDT)
+Return-Path: &lt;david.s.g.72@shaw.ca&gt;
+Received: from nm20-vm0.bullet.mail.ukl.yahoo.com (nm20-vm0.bullet.mail.ukl.yahoo.com. [217.146.183.115])
+       by mx.google.com with SMTP id k4si4371441wiv.20.2012.03.17.14.53.42;
+       Sat, 17 Mar 2012 14:53:43 -0700 (PDT)
+Received-SPF: softfail (google.com: domain of transitioning david.s.g.72@shaw.ca does not designate 217.146.183.115 as permitted sender) client-ip=217.146.183.115;
+Authentication-Results: mx.google.com; spf=softfail (google.com: domain of transitioning david.s.g.72@shaw.ca does not designate 217.146.183.115 as permitted sender) smtp.mail=david.s.g.72@shaw.ca; dkim=hardfail (test mode) header.i=@yahoo.com
+Received: from [217.146.183.181] by nm20.bullet.mail.ukl.yahoo.com with NNFMP; 17 Mar 2012 21:53:42 -0000
+Received: from [217.146.183.35] by tm12.bullet.mail.ukl.yahoo.com with NNFMP; 17 Mar 2012 21:53:42 -0000
+Received: from [127.0.0.1] by omp1024.mail.ukl.yahoo.com with NNFMP; 17 Mar 2012 21:53:42 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 364818.76527.bm@omp1024.mail.ukl.yahoo.com
+Received: (qmail 2825 invoked by uid 6007); 17 Mar 2012 21:53:42 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed
+Return-Path: &lt;david.s.g.72@shaw.ca&gt;
+X-YahooFilteredBulk: 24.71.223.10
+X-Originating-IP: [24.71.223.10]
+Authentication-Results: mta1026.mail.ukl.yahoo.com  from=Shaw.ca; domainkeys=neutral (no sig);  from=Shaw.ca; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO idcmail-mo1so.shaw.ca) (24.71.223.10)
+ by mta1026.mail.ukl.yahoo.com with SMTP; Sat, 17 Mar 2012 21:53:42 +0000
+Received: from pd2mr2so-ssvc.prod.shaw.ca ([10.0.141.109])
+ by pd3mo1so-svcs.prod.shaw.ca with ESMTP; 17 Mar 2012 15:53:41 -0600
+X-Cloudmark-SP-Filtered: true
+X-Cloudmark-SP-Result: v=1.1 cv=ckWoTOO/orhdUa3hdZR7Ey1sHH/poJRBsLbqzpZxT64= c=1 sm=1
+a=BLceEmwcHowA:10 a=Yy41ZpTVT65CGskRbu0A:9 a=6I_1VM3uCp-bM5_tVXMA:7
+a=CjuIK1q_8ugA:10 a=HpAAvcLHHh0Zw7uRqdWCyQ==:117
+Received: from unknown (HELO ms031so.so.cg.dcs.int.inet) ([10.0.141.22])
+ by pd2mr2so-svcs.prod.shaw.ca with ESMTP; 17 Mar 2012 15:53:40 -0600
+Received: from shaw.ca ([unknown] [10.0.122.29])
+by l-daemon (Sun Java(tm) System Messaging Server 7.3-11.01 64bit (built Sep
+1 2009)) with ESMTP id &lt;0M11008DVU5GGNC0@l-daemon&gt; for
+lucy.baulsak@yahoo.co.uk; Sat, 17 Mar 2012 15:53:41 -0600 (MDT)
+Received: from [10.0.144.234] (Forwarded-For: [10.0.146.234])
+by vms037.prod.shaw.ca (mshttpd); Sun, 18 Mar 2012 03:23:40 +0530
+From: David Swickis &lt;david.s.g.72@Shaw.ca&gt;
+Message-id: &lt;fb92054ea9973.4f65553c@shaw.ca&gt;
+Date: Sun, 18 Mar 2012 03:23:40 +0530
+
+Id Awarded 750,000.00 Pounds in Coca Cola Cash Offer.Send: Names:..Country:.Tel

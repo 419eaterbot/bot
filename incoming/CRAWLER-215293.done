@@ -1,0 +1,35 @@
+
+
+Received: by 10.68.230.9 with SMTP id su9cs143546pbc;
+       Wed, 15 Feb 2012 04:59:14 -0800 (PST)
+Received: by 10.180.92.227 with SMTP id cp3mr35419096wib.13.1329310753437;
+       Wed, 15 Feb 2012 04:59:13 -0800 (PST)
+Return-Path: &lt;ngb057@nenu.edu.cn&gt;
+Received: from nm24-vm7.bullet.mail.ukl.yahoo.com (nm24-vm7.bullet.mail.ukl.yahoo.com. [217.146.176.223])
+       by mx.google.com with SMTP id l12si2090916wie.12.2012.02.15.04.59.12;
+       Wed, 15 Feb 2012 04:59:13 -0800 (PST)
+Received-SPF: neutral (google.com: 217.146.176.223 is neither permitted nor denied by best guess record for domain of ngb057@nenu.edu.cn) client-ip=217.146.176.223;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 217.146.176.223 is neither permitted nor denied by best guess record for domain of ngb057@nenu.edu.cn) smtp.mail=ngb057@nenu.edu.cn; dkim=hardfail (test mode) header.i=@yahoo.com
+Received: from [217.146.183.215] by nm24.bullet.mail.ukl.yahoo.com with NNFMP; 15 Feb 2012 12:59:12 -0000
+Received: from [217.146.183.161] by tm8.bullet.mail.ukl.yahoo.com with NNFMP; 15 Feb 2012 12:59:12 -0000
+Received: from [127.0.0.1] by omp1002.mail.ukl.yahoo.com with NNFMP; 15 Feb 2012 12:59:12 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 480800.24119.bm@omp1002.mail.ukl.yahoo.com
+Received: (qmail 53213 invoked by uid 6007); 15 Feb 2012 12:59:12 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=r
+Return-Path: &lt;ngb057@nenu.edu.cn&gt;
+X-YahooFilteredBulk: 82.57.200.104
+X-Originating-IP: [82.57.200.104]
+Authentication-Results: mta1010.mail.ukl.yahoo.com  from=nenu.edu.cn; domainkeys=neutral (no sig);  from=nenu.edu.cn; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO smtp208.alice.it) (82.57.200.104)
+ by mta1010.mail.ukl.yahoo.com with SMTP; Wed, 15 Feb 2012 12:59:08 +0000
+Received: from User (182.63.92.1 by smtp208.alice.it (8.6.023.02) (authenticated as mvanzillotta@alice.it)
+       id 4F056E85048F0307; Wed, 15 Feb 2012 13:53:56 +0100
+Message-ID: &lt;4f3bac21.4c14b40a.5477.ffff8447SMTPIN_ADDED@mx.google.com&gt;
+Reply-To: &lt;llkhinua@sify.com&gt;
+From: "L H"&lt;ngb057@nenu.edu.cn&gt;
+To: info@info.net
+Subject: important info
+Date: Wed, 15 Feb 2012 20:53:50 +0800
+
+I am writing you to claim some funds with your last name.Write back for details

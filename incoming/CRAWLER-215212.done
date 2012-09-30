@@ -1,0 +1,95 @@
+
+
+From - Wed Feb 15 18:40:57 2012
+X-Account-Key: account3
+X-UIDL: 0000522b4b264292
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Return-path: &lt;102043026@stu.vtc.edu.hk&gt;
+Envelope-to: xxxxx
+Delivery-date: Wed, 15 Feb 2012 07:28:17 -0800
+Received: from 62.mail-out.ovh.net ([91.121.185.55]:59818)
+	by n14.c04.mtsvc.net with smtp (Exim 4.69)
+	(envelope-from &lt;102043026@stu.vtc.edu.hk&gt;)
+	id 1RxgmH-0005v3-FQ
+	for xxxx; Wed, 15 Feb 2012 07:28:17 -0800
+Received: (qmail 3861 invoked by uid 503); 15 Feb 2012 14:41:05 -0000
+Received: from b9.ovh.net (HELO mail545.ha.ovh.net) (213.186.33.59)
+ by 62.mail-out.ovh.net with SMTP; 15 Feb 2012 14:41:05 -0000
+Received: from b0.ovh.net (HELO queueout) (213.186.33.50)
+	by b0.ovh.net with SMTP; 15 Feb 2012 17:28:16 +0200
+Delivered-To: xxxxx
+Received: from b0.ovh.net (HELO queue) (213.186.33.50)
+	by b0.ovh.net with SMTP; 15 Feb 2012 17:28:15 +0200
+Received: from zagreb.vtc.edu.hk (202.75.80.116)
+ by mx1.ovh.net with SMTP; 15 Feb 2012 17:28:14 +0200
+DomainKey-Signature: s=vtc-domainkeys; d=vtc.edu.hk; c=nofws; q=dns;
+ h=From:X-IronPort-AV:Received:Received:Received:Date:
+  Subject:Thread-Topic:Thread-Index:Message-ID:
+  Accept-Language:Content-Language:X-MS-Has-Attach:
+  X-MS-TNEF-Correlator:acceptlanguage:Content-Type:
+  MIME-Version:Content-Transfer-Encoding;
+ b=DrXaLaCLFFf4JQswCKObF5KNr2cd34o1fuM9dankOXgbUQygsfObetIn
+  bVGsi3WOakR5CmAvUITcwHdj2Sz+lerxzAKIU3hQdMPo0ABP9Uk4vqyP2
+  SKQ1I9OoVzDHjrg5b6tX/XMPiyAdChS/+IrvXjSU7ayhdOGS4dtY1hbTY
+  s=;
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+ d=vtc.edu.hk; i=102043026@stu.vtc.edu.hk; q=dns/txt;
+ s=vtc-dkim; t=1329319695; x=1360855695;
+ h=date:subject:message-id:mime-version:
+  content-transfer-encoding:from;
+ bh=2XpBNxu6ZbY63DzqFXLd7PlTvsd7iILR6aJuqNRpWD4=;
+ b=T6249eDLzmYmbDuSRHfdwNbTjYcL+lev16yaGjbbJuCyj+BrsJboq3yb
+  oOs1oBtybEnDRcCPR6tFl/MtIZ1ogudpqzDBVZQkMVC5Yyanc5hs7CCBP
+  E3N9ugLBQCPbO/dtWTxvEB4DcwG2IuPaZGD0LDtlnD2Tp84WC/E8bAFSQ
+  w=;
+From: "KUANG Oi Ming" &lt;102043026@stu.vtc.edu.hk&gt;
+X-IronPort-AV: E=Sophos;i="4.73,424,1325433600"; 
+  d="scan'208";a="63203147"
+Received: from newcastle.vtc.hk ([172.27.3.17])
+ by warsaw.vtc.edu.hk with ESMTP/TLS/AES128-SHA; 15 Feb 2012 23:28:10 +0800
+Received: from VTCSTUEXG01.vtc.hk ([169.254.1.212]) by newcastle.vtc.hk
+([172.27.3.17]) with mapi; Wed, 15 Feb 2012 23:28:09 +0800
+Date: Wed, 15 Feb 2012 23:28:09 +0800
+Thread-Topic: Loan offer
+Thread-Index: AQHM6/ZrjRxPUyp+r0mx1z0pjjP2SA==
+Message-ID: &lt;497507C00D9863479E7F9BC18C8839C3022B94B7B00B@VTCSTUEXG01.vtc.hk&gt;
+Accept-Language: zh-HK, en-US
+Content-Language: zh-HK
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+acceptlanguage: zh-HK, en-US
+Content-Type: text/plain; charset="us-ascii"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+X-Ovh-Tracer-Id: 14919862616947066482
+X-Ovh-Remote: 202.75.80.116 (zagreb.vtc.edu.hk)
+X-Ovh-Local: 213.186.33.29 (mx1.ovh.net)
+X-OVH-SPAMSTATE: OK
+X-OVH-SPAMSCORE: 30
+X-OVH-SPAMCAUSE: [snip]
+X-Spam-Check: DONE|U 0.5/N
+X-Spam-Status: "score=3.8 tests=BLANK_LINES_70_80, FROM_ALL_NUMS, FROM_STARTS_WITH_NUMS,
+	MISSING_HEADERS, TO_CC_NONE version=3.1.7 cmae=v=1.0 c=1 a=kj9zAlcOel0A:10
+	a=AK20BSBRO2nD1nUpgrACcQ==:17 a=GiBpmu0bw8V6qpyjrEYA:9 a=WItZ8nF5gZzxV8J_QiYA:7
+	a=CjuIK1q_8ugA:10 a=EKbq9N4XCDIA:10 a=EfJqPEOeqlMA:10 xcat=Undefined/Undefined"
+X-Spam-Level: ***
+Subject:  Loan offer
+
+
+Loan offer at 3% interest rate. Contact us now on galafinancial@hotmail.com =
+
+ =
+
+Disclaimer - This above message, including any attachment, may contain pers=
+onal, confidential and/or proprietary information, and is intended only for=
+the person(s) or entity/entities to whom it was originally addressed. If y=
+ou are not the intended recipient, please notify us and destroy this messag=
+e immediately. Further transmission, dissemination or other use of, or taki=
+ng of any action in reliance upon, such information by anyone other than th=
+e intended recipient(s) is prohibited and may contravene local or internati=
+onal law. Moreover, email communications cannot be guaranteed to be error-f=
+ree or virus-free. We disclaim any liability arising there from. All inform=
+ation and opinions given therein are entirely those of the message sender(s=
+) and are not necessarily endorsed by the Vocational Training Council.

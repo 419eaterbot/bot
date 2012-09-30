@@ -1,0 +1,74 @@
+
+
+Received: by 10.182.128.98 with SMTP id nn2csp18292obb;
+       Mon, 12 Mar 2012 17:26:17 -0700 (PDT)
+Received: by 10.68.227.99 with SMTP id rz3mr3645582pbc.39.1331598376938;
+       Mon, 12 Mar 2012 17:26:16 -0700 (PDT)
+Return-Path: &lt;misasomsoa@indiatimes.com&gt;
+Received: from nm17-vm0.bullet.mail.ird.yahoo.com (nm17-vm0.bullet.mail.ird.yahoo.com. [77.238.189.214])
+       by mx.google.com with SMTP id b5si17408639pbj.23.2012.03.12.17.26.15;
+       Mon, 12 Mar 2012 17:26:16 -0700 (PDT)
+Received-SPF: softfail (google.com: domain of transitioning misasomsoa@indiatimes.com does not designate 77.238.189.214 as permitted sender) client-ip=77.238.189.214;
+Authentication-Results: mx.google.com; spf=softfail (google.com: domain of transitioning misasomsoa@indiatimes.com does not designate 77.238.189.214 as permitted sender) smtp.mail=misasomsoa@indiatimes.com; dkim=pass header.i=@indiatimes.com
+Received: from [77.238.189.53] by nm17.bullet.mail.ird.yahoo.com with NNFMP; 13 Mar 2012 00:26:15 -0000
+Received: from [212.82.108.247] by tm6.bullet.mail.ird.yahoo.com with NNFMP; 13 Mar 2012 00:26:15 -0000
+Received: from [127.0.0.1] by omp1012.mail.ird.yahoo.com with NNFMP; 13 Mar 2012 00:26:15 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 305629.45648.bm@omp1012.mail.ird.yahoo.com
+Received: (qmail 17893 invoked 
+
+Return-Path: &lt;misasomsoa@indiatimes.com&gt;
+X-YahooFilteredBulk: 223.165.24.217
+
+X-Originating-IP: [223.165.24.217]
+Authentication-Results: mta1049.mail.ird.yahoo.com  from=; domainkeys=neutral (no sig);  from=indiatimes.com; dkim=pass (ok)
+Received: from 127.0.0.1  (EHLO trx4.indiatimes.com) (223.165.24.217)
+ by mta1049.mail.ird.yahoo.com with SMTP; Tue, 13 Mar 2012 00:26:15 +0000
+DKIM-Signature: v=1; a=rsa-sha256
+
+Received: from vomta1.indiatimes.com ([192.168.24.78]) by indiatimes.com
+	with ESMTP id 4F5E9424-55DA0F27@mta4303.omr;
+	Tue, 13 Mar 2012 00:26:12 +0000
+Received: (qmail 55323 invoked by uid 508); 13 Mar 2012 00:26:12 -0000
+Received: from 192.168.24.53 by vomta1.indiatimes.com (envelope-from &lt;misasomsoa@indiatimes.com&gt;, uid 502) with qmail-scanner-1.25st 
+(spamassassin: 3.3.1. perlscan: 1.25st.  
+Clear:RC:1(192.168.24.53):SA:0(3.5/4.9):. 
+Processed in 0.907405 secs); 13 Mar 2012 00:26:12 -0000
+X-Spam-Status: No, hits=3.5 required=4.9
+X-Spam-Level: +++
+X-Spam-Report: SA TESTS
+ 0.0 FREEMAIL_FROM          Sender email is freemail (misasomsoa[at]indiatimes.com)
+ 0.1 RDNS_NONE              Delivered to internal network by a host with no rDNS
+ 0.0 HELO_NO_DOMAIN         Relay reports its domain incorrectly
+ 2.8 FREEMAIL_REPLYTO       Reply-To/From or Reply-To/body contain different
+                            freemails
+ 0.0 T_TO_NO_BRKTS_FREEMAIL T_TO_NO_BRKTS_FREEMAIL
+ 0.1 TO_NO_BRKTS_DIRECT     To: misformatted and direct-to-MX
+ 0.5 TO_NO_BRKTS_NOTLIST    To: misformatted and not a mailing list
+X-Indiatimes-Scanner-Mail-From: misasomsoa@indiatimes.com via vomta1.indiatimes.com
+X-Indiatimes-Scanner: 1.25st (Clear:RC:1(192.168.24.53):SA:0(3.5/4.9):. Processed in 0.907405 secs Process 55284)
+Received: from irmta6.indiatimes.com (192.168.24.53)
+ by vomta1.indiatimes.com with SMTP; 13 Mar 2012 00:26:11 -0000
+Received: from tilmb17.indiatimes.com (unknown [192.168.23.10])
+	by irmta6.indiatimes.com (Postfix) with ESMTP id 152EBF8002;
+	Tue, 13 Mar 2012 05:56:10 +0530 (IST)
+Date: Tue, 13 Mar 2012 05:56:10 +0530 (IST)
+From: Mis Tuma Ahoussou &lt;misasomsoa@indiatimes.com&gt;
+Reply-To: Mis Tuma Ahoussou &lt;tumaahoussou@gmx.com&gt;
+Message-ID: &lt;1193750699.737671331598370880.JavaMail.root@tilmb17.indiatimes.com&gt;
+Subject: Hello Dear
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+X-Originating-IP: [41.82.126.15]
+X-Mailer: Zimbra 5.0.6_GA_2313.RHEL4_64 (zclient/5.0.6_GA_2313.RHEL4_64)
+To: undisclosed-recipients:;
+
+
+Hello Dear
+
+How are you doing i hope
+you are in a good health?
+
+My Regards
+Tuma.

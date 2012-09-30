@@ -1,0 +1,74 @@
+
+
+Return-path: &lt;test@petersonprice.com&gt;
+Envelope-to: 
+Delivery-date: Tue, 20 Mar 2012 15:42:26 -0700
+Received: from exprod8ob104.obsmtp.com ([64.18.3.87])
+	by  with smtp (Exim 4.69)
+	(envelope-from &lt;test@petersonprice.com&gt;)
+	id 1SA7l2-0000MF-AR
+	for ; Tue, 20 Mar 2012 15:42:26 -0700
+Received: from mail.petersonprice.com ([68.105.250.40]) by exprod8ob104.postini.com ([64.18.7.12]) with SMTP
+	ID DSNKT2kHzhkCQudEv4d/zFADT4eBIBCamOnT@postini.com; Tue, 20 Mar 2012 15:42:25 PDT
+Content-class: urn:content-classes:message
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01CD06EA.B6CAE8BC"
+Subject: Urgency!!!
+X-MimeOLE: Produced By Microsoft Exchange V6.5
+Date: Tue, 20 Mar 2012 15:42:22 -0700
+Message-ID: &lt;A7B743604BA5A44BA8E0E2E85B9694855B021F@exchange.PPAPC.LOCAL&gt;
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Thread-Topic: Urgency!!!
+Thread-Index: Ac0G6ra1bf4jl2MYRoyXth/OxaaH5g==
+From: "test" &lt;test@petersonprice.com&gt;
+X-Spam-Status: No, score=1.3
+X-Spam-Score: 13
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  Good Day I am Mr. Vincent Cheng Hoi-Chuen. GBS, OBE, JP. Executive
+	Director of HSBC Hong Kong Plc and also Chairman of the Hong Kong and Shanghai
+	Banking Corporation Limited, i have a business proposal of $10,000,000.00
+	(Ten Million dollars) only for you to transact with me from my bank to your
+	country. [...] 
+	Content analysis details:   (1.3 points, 7.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	-2.3 RCVD_IN_DNSWL_MED      RBL: Sender listed at http://www.dnswl.org/, medium
+	trust
+	[64.18.3.87 listed in list.dnswl.org]
+	1.0 MISSING_HEADERS        Missing To: header
+	1.8 US_DOLLARS_3           BODY: Mentions millions of $ ($NN,NNN,NNN.NN)
+	0.0 HTML_MESSAGE           BODY: HTML included in message
+	0.8 BAYES_50               BODY: Bayes spam probability is 40 to 60%
+	[score: 0.5000]
+	0.0 LOTS_OF_MONEY          Huge... sums of money
+X-Spam-Flag: NO
+
+This is a multi-part message in MIME format.
+
+------_=_NextPart_001_01CD06EA.B6CAE8BC
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Good Day
+
+I am Mr. Vincent Cheng Hoi-Chuen. GBS, OBE, JP. Executive Director of
+HSBC Hong Kong Plc and also Chairman of the Hong Kong and Shanghai
+Banking Corporation Limited, i have a business proposal of  $10,000,000.00
+(Ten Million dollars)  only for you to transact with me from my bank to your country.
+
+All confirmable documents to back up the claims will be made available
+to you prior to your acceptance and as soon as I receive your return mail
+Via my email address: v.cheng26@hotmail.com , i will let you know
+what is required of you.Your earliest response to this letter will be
+appreciated.
+
+Best Regards,
+Mr.Vincent Cheng

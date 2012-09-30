@@ -1,0 +1,80 @@
+
+
+Return-path: &lt;test1@fjit.gov.cn&gt;
+Envelope-to: 
+Delivery-date: Sat, 25 Feb 2012 13:30:43 -0800
+Received: from [222.77.176.74] (helo=MAIL-FJIT.fjit.gov.cn)
+	by  with esmtps (TLSv1:RC4-MD5:128)
+	(Exim 4.69)
+	(envelope-from &lt;test1@fjit.gov.cn&gt;)
+	id 1S1PCT-000185-Vo
+	for ; Sat, 25 Feb 2012 13:30:43 -0800
+Received: from User (41.222.192.226) by MAIL-FJIT.fjit.gov.cn (222.77.176.74)
+with Microsoft SMTP Server id 8.1.311.2; Sun, 26 Feb 2012 04:22:43 +0800
+Reply-To: &lt;carolynrodriguesbirkett@yahoo.dk&gt;
+From: OBIOMA &lt;test1@fjit.gov.cn&gt;
+Subject: CONTACT FOR YOUR ONLINE BANKING
+Date: Sat, 25 Feb 2012 12:26:22 -0800
+MIME-Version: 1.0
+Content-Type: text/plain; charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+X-Antivirus: avast! (VPS 100214-0, 02/14/2010), Outbound message
+X-Antivirus-Status: Clean
+Message-ID: &lt;7f3f766b-cec3-4e8f-a3f4-18dc423f1358@MAIL-FJIT.fjit.gov.cn&gt;
+To: Undisclosed recipients:;
+X-Spam-Subject: ***SPAM*** CONTACT FOR YOUR ONLINE BANKING
+X-Spam-Status: Yes, score=15.6
+X-Spam-Score: 156
+X-Spam-Bar: +++++++++++++++
+X-Spam-Report: Spam detection software, running on the system "", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  Hi client, We later agreed to transfer your total fund to
+	you through online banking where you can make the transfer yourself into any
+	account of your choice for security reasons, so if you are ready to work
+	with United Bank for Africa as you must obey their rules and terms of online
+	transfer to put smile on your face again comply. [...] 
+	Content analysis details:   (15.6 points, 7.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.0 FSL_CTYPE_WIN1251      Content-Type only seen in 419 spam
+	0.6 FSL_XM_419             Old OE version in X-Mailer only seen in 419 spam
+	0.0 NSL_RCVD_FROM_USER     Received from User
+	2.7 RCVD_IN_PSBL           RBL: Received via a relay in PSBL
+	[222.77.176.74 listed in psbl.surriel.com]
+	0.4 RCVD_IN_XBL            RBL: Received via a relay in Spamhaus XBL
+	[222.77.176.74 listed in zen.spamhaus.org]
+	1.3 RCVD_IN_BL_SPAMCOP_NET RBL: Received via a relay in bl.spamcop.net
+	[Blocked - see &lt;http://www.spamcop.net/bl.shtml?41.222.192.226&gt;]
+	0.8 RCVD_IN_SORBS_WEB      RBL: SORBS: sender is an abusable web server
+	[41.222.192.226 listed in dnsbl.sorbs.net]
+	1.4 RCVD_IN_BRBL_LASTEXT   RBL: RCVD_IN_BRBL_LASTEXT
+	[222.77.176.74 listed in bb.barracudacentral.org]
+	1.5 SUBJ_ALL_CAPS          Subject is all capitals
+	0.8 BAYES_50               BODY: Bayes spam probability is 40 to 60%
+	[score: 0.5011]
+	0.2 FSL_UA                 FSL_UA
+	0.8 RDNS_NONE              Delivered to internal network by a host with no rDNS
+	2.1 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+	1.0 TO_NO_BRKTS_MSFT       To: misformatted and supposed Microsoft tool
+	1.9 FORGED_MUA_OUTLOOK     Forged mail pretending to be from MS Outlook
+	0.0 TO_NO_BRKTS_NORDNS     To: misformatted and no rDNS
+X-Spam-Flag: YES
+
+Hi client,
+
+We later agreed to transfer your total fund to you through online banking where you can make the transfer yourself into any account of your choice for security reasons, so if you are ready to work with United Bank for Africa as you must obey their rules and terms of online transfer to put smile on your face again comply.
+
+Bear it in mind that the only money you should pay is a sum of $189 usd for the opening of your online account with the bank and there is no question about the fee for your information, i want to be frank with you because i knows how much effort i made to get to this conclusion point and i knows  with your understanding, your problems should be over within 24 hours immediately after you comply with online account opening. remember that all contact should be directed to this email only for security reasons Email(carolynrodriguesbirkett@yahoo.dk)
+
+Respond now for more information on this process.
+
+Thanks  yours in service.
+
+Mrs. Rodrigues OBIOMA

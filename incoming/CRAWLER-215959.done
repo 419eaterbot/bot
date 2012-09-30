@@ -1,0 +1,51 @@
+Return-Path: &lt;esterdemba1@gmail.com&gt;
+Delivered-To: GMX delivery to &lt;snip&gt;
+Received: (qmail invoked by alias); 05 Mar 2012 18:10:57 -0000
+Received: from mail-lpp01m010-f45.google.com (EHLO mail-lpp01m010-f45.google.com) [209.85.215.45]
+ by mx0.gmx.com (mx-us006) with SMTP; 05 Mar 2012 13:10:57 -0500
+Received: by mail-lpp01m010-f45.google.com with SMTP id e6so7136146lah.18
+       for &lt;carlos.wonder@gmx.com&gt;; Mon, 05 Mar 2012 10:10:57 -0800 (PST)
+Received-SPF: pass (google.com: domain of esterdemba1@gmail.com designates 10.152.132.130 as permitted sender) client-ip=10.152.132.130;
+Authentication-Results: mr.google.com; spf=pass (google.com: domain of esterdemba1@gmail.com designates 10.152.132.130 as permitted sender) smtp.mail=esterdemba1@gmail.com; dkim=pass header.i=esterdemba1@gmail.com
+Received: from mr.google.com ([10.152.132.130])
+       by 10.152.132.130 with SMTP id ou2mr19554903lab.44.1330971057315 (num_hops = 1);
+       Mon, 05 Mar 2012 10:10:57 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+       d=gmail.com; s=20120113;
+       h=mime-version:sender:date:x-google-sender-auth:message-id:subject
+        :from:to:content-type;
+       bh=rgVbPFnQXZjXp2TVEZflMatbfZVId44+4YHm+jwuMdo=;
+       b=pRGVofLwtjyUeibG8Cid/suJpHBBVhEmCnPzmF65fcnZ0hjZPxWVpQGhbgxYXLWemq
+        dJ+7FDd+B6BtjVzOVDU+QAi7SqciXsXtbHjW19bMpAZp5HKkrPNCvp1pe0gaqRwU0obX
+        07aw3tZHPO8XA8qWgL/ALjLvirHPBZIvD6i8QAe8GUxAHvjMp5U6cffq89XUO7VZGJP/
+        oqa90xpU5AUtlLPCcpFdEt2xHRaihNuCoYOcvyxZVxzMSF2nk8qaHv5Msmis03iQQ+DF
+        CfHWNmaWwMaYu2m83VvLPTqM3skf2FV8wN/gqUfgL6BS2wTER+1x5UsXtQWgGEOiuiXm
+        9wrA==
+MIME-Version: 1.0
+Received: by 10.152.132.130 with SMTP id ou2mr16060308lab.44.1330971052355;
+Mon, 05 Mar 2012 10:10:52 -0800 (PST)
+Sender: esterdemba1@gmail.com
+Received: by 10.112.78.6 with HTTP; Mon, 5 Mar 2012 10:10:52 -0800 (PST)
+Date: Mon, 5 Mar 2012 18:10:52 +0000
+X-Google-Sender-Auth: bYppC3UGEAMHhBSoKClmwfHWHZA
+Message-ID: &lt;CAGd08bEOgGQDz=8NvH9J=eP5yDJo9NAbEYxN5jyMK2XfOi0FYQ@mail.gmail.com&gt;
+Subject: Hello
+From: ester demba &lt;esterdemba@ymail.com&gt;
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary=f46d043089b4c8312404ba82d860
+Bcc: &lt;snip&gt;
+
+  
+
+Hllo
+Nice to meet you. My name is ESter Demba
+I saw your contact email as i was browsing for friends.
+So i became interested in making contact with you.
+Please, I hope you will not be offended with my message.
+I like meeting new friends and I will like to know you as a friend please.
+I will be very happy to read from you when you get my message.
+So that i will also send you my picture for you to see who i am.
+I hope we can be good friends by sharing interests and experiences.
+I hope to see your reply. Thanks and have a nice day
+Your friend
+Ester

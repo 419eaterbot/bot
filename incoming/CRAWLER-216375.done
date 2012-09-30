@@ -1,0 +1,39 @@
+
+
+Return-Path: &lt;www-data@salle.url.edu&gt;
+Received: from relay1.salle.url.edu (relay1.salle.url.edu [84.88.232.246])
+       (envelope-from www-data@salle.url.edu)
+Received-SPF: pass (relay1.salle.url.edu: 84.88.232.238 is whitelisted) receiver=relay1.salle.url.edu; client-ip=84.88.232.238; helo=columba.salle.url.edu; envelope-from=www-data@salle.url.edu; x-software=spfmilter 0.97 http://www.acme.com/software/spfmilter/ with libspf-unknown;
+Received: from columba.salle.url.edu (columba.salleURL.edu [84.88.232.238])
+       by relay1.salle.url.edu (8.14.3/8.14.3/Debian-9.4) with ESMTP id q2GD7dCG032035
+       (version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT)
+       for &lt;&gt;; Fri, 16 Mar 2012 14:07:42 +0100
+Received: from web.salleurl.edu (web.salle.url.edu [84.88.232.160])
+       by columba.salle.url.edu (8.14.3/8.14.3/Debian-5+lenny1) with ESMTP id q2GCssbZ026323
+       (version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NOT)
+       for &lt;&gt;; Fri, 16 Mar 2012 14:07:38 +0100
+Received: from web.salleurl.edu (localhost [127.0.0.1])
+       by web.salleurl.edu (8.13.4/8.13.4/Debian-3sarge3) with ESMTP id q2GChmuT017812
+       for &lt;&gt;; Fri, 16 Mar 2012 13:43:48 +0100
+Received: (from www-data@localhost)
+       by web.salleurl.edu (8.13.4/8.13.4/Submit) id q2GChlCt017803;
+       Fri, 16 Mar 2012 13:43:47 +0100
+Date: Fri, 16 Mar 2012 13:43:47 +0100
+Message-Id: &lt;201203161243.q2GChlCt017803@web.salleurl.edu&gt;
+To: 
+Subject: just 3% interest rate
+From: Coastal Loan Service &lt;coastalloanhomes@gmail.com&gt;
+Reply-To: coastalloanhomes@gmail.com
+MIME-Version: 1.0
+Content-Type: text/plain
+Content-Transfer-Encoding: 8bit
+X-Virus-Scanned: clamav-milter 0.96 at columba
+X-Virus-Status: Clean
+X-Scanned-By: MIMEDefang 2.69 on 84.88.232.246
+X-Scanned-By: MIMEDefang 2.64 on 84.88.232.238
+X-Greylist: Default is to whitelist mail, not delayed by milter-greylist-4.2.3
+
+We give out loans to business people and individuals for just 3% interest rate.We give out local and international loans to any body all over the world.We give out loans via account transfer to what ever country you are.We are not a bank and we do not require much documents.If you are interested in getting a loan from our company Coastal Loan Services.In acknowledgment to these details, I will send you a well calculated Terms and Condition which will include the Loan agreement.
+
+Best Regards
+Richard

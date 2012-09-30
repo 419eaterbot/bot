@@ -1,0 +1,82 @@
+
+
+Return-Path: &lt;backup@mybibi.net&gt;
+Received: from mail.mybibi.net (mail.mybibi.net [95.154.104.114])
+       (envelope-from backup@mybibi.net)
+Message-Id: &lt;201203170030.q2H0U0dG069083@glenn.acsalaska.net&gt;
+Received: (qmail 53976 invoked by uid 1010); 16 Mar 2012 22:24:36 -0000
+Received: by simscan 1.4.0 ppid: 53184, pid: 53781, t: 5.2333s
+        scanners: clamav: 0.96/m:52/d:11096 spam: 3.1.6
+Received: from localhost by server.mybibi.net
+       with SpamAssassin (version 3.1.6);
+       Sat, 17 Mar 2012 08:24:36 +1000
+From: "tai"&lt;backup@mybibi.net&gt;
+Subject: -=***SPAM*(7.3)****=- ===Attn ===
+Date: Fri, 16 Mar 2012 18:24:30 -0400
+X-Spam-Flag: YES
+X-Spam-Checker-Version: SpamAssassin 3.1.6 (2006-10-03) on server.mybibi.net
+X-Spam-Level: *******
+X-Spam-Status: Yes, score=7.3 required=4.3 tests=FORGED_MUA_OUTLOOK,
+       MISSING_HEADERS,NO_REAL_NAME,RCVD_IN_XBL,TO_CC_NONE autolearn=no 
+       version=3.1.6
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="----------=_4F63BDA4.4385BFBD"
+To: undisclosed-recipients:;
+X-Greylist: Default is to whitelist mail, not delayed by milter-greylist-4.2.3 
+
+This is a multi-part message in MIME format.
+
+------------=_4F63BDA4.4385BFBD
+Content-Type: text/plain
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+Spam detection software, running on the system "server.mybibi.net", has
+identified this incoming email as possible spam.  The original message
+has been attached to this so you can view it (if it isn't spam) or label
+similar future email.  If you have any questions, see
+The administrator of that system for details.
+
+Content preview:  Hello I have a Bequest for you to Handle with me here at
+ my Bank Branch. Kindly respond by providing me with your Full Names,
+ Contact Address and Telephone Number for Details. Sincerely Liu [...] 
+
+Content analysis details:   (7.3 points, 4.3 required)
+
+ pts rule name              description
+---- ---------------------- --------------------------------------------------
+0.6 NO_REAL_NAME           From: does not include a real name
+0.2 MISSING_HEADERS        Missing To: header
+3.1 RCVD_IN_XBL            RBL: Received via a relay in Spamhaus XBL
+                           [74.8.133.152 listed in zen.spamhaus.org]
+0.1 TO_CC_NONE             No To: or Cc: header
+3.4 FORGED_MUA_OUTLOOK     Forged mail pretending to be from MS Outlook
+
+
+------------=_4F63BDA4.4385BFBD
+Content-Type: message/rfc822; x-spam-type=original
+Content-Description: original message before SpamAssassin
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+
+Received: from unknown (HELO User) (backup@mybibi.net@74.8.133.152)
+ by mail.mybibi.net with SMTP; 16 Mar 2012 22:24:31 -0000
+Reply-To: &lt;liutailing80@yahoo.com.hk&gt;
+From: "tai"&lt;backup@mybibi.net&gt;
+Subject: ===Attn ===
+Date: Fri, 16 Mar 2012 18:24:30 -0400
+MIME-Version: 1.0
+Content-Type: text/plain;
+       charset="Windows-1251"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MSMail-Priority: Normal
+X-Mailer: Microsoft Outlook Express 6.00.2600.0000
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2600.0000
+
+Hello
+I have a Bequest for you to Handle with me here at my Bank Branch. Kindly respond by providing me with your Full Names, Contact Address and Telephone Number for Details.
+Sincerely
+Liu
+
+------------=_4F63BDA4.4385BFBD--

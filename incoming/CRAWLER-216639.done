@@ -1,0 +1,33 @@
+
+
+Received: by 10.182.128.98 with SMTP id nn2csp29099obb;
+       Tue, 20 Mar 2012 04:14:09 -0700 (PDT)
+Received: by 10.68.197.74 with SMTP id is10mr25391878pbc.153.1332242048657;
+       Tue, 20 Mar 2012 04:14:08 -0700 (PDT)
+Return-Path: &lt;noreply@congalot.org&gt;
+Received: from nm10.bullet.mail.ird.yahoo.com (nm10.bullet.mail.ird.yahoo.com. [77.238.189.39])
+       by mx.google.com with SMTP id j10si1533708pbd.54.2012.03.20.04.14.07;
+       Tue, 20 Mar 2012 04:14:08 -0700 (PDT)
+Received-SPF: neutral (google.com: 77.238.189.39 is neither permitted nor denied by best guess record for domain of noreply@congalot.org) client-ip=77.238.189.39;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 77.238.189.39 is neither permitted nor denied by best guess record for domain of noreply@congalot.org) smtp.mail=noreply@congalot.org; dkim=hardfail (test mode) header.i=@yahoo.com
+Received: from [77.238.189.234] by nm10.bullet.mail.ird.yahoo.com with NNFMP; 20 Mar 2012 11:14:05 -0000
+Received: from [212.82.108.254] by tm15.bullet.mail.ird.yahoo.com with NNFMP; 20 Mar 2012 11:14:05 -0000
+Received: from [127.0.0.1] by omp1019.mail.ird.yahoo.com with NNFMP; 20 Mar 2012 11:14:05 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 517347.2902.bm@omp1019.mail.ird.yahoo.com
+Received: (qmail 17489 invoked by uid 6007); 20 Mar 2012 11:14:05 -0000
+DKIM-Signature: v=1; a=r
+Return-Path: &lt;noreply@congalot.org&gt;
+X-YahooFilteredBulk: 208.80.169.37
+X-Originating-IP: [208.80.169.37]
+Authentication-Results: mta1023.mail.ird.yahoo.com  from=congalot.org; domainkeys=neutral (no sig);  from=congalot.org; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO mail.kodiaktech.com) (208.80.169.37)
+ by mta1023.mail.ird.yahoo.com with SMTP; Tue, 20 Mar 2012 11:14:05 +0000
+Received: from User ([66.215.112.85] RDNS failed) by mail.kodiaktech.com with Microsoft SMTPSVC(6.0.3790.4675);
+	 Tue, 20 Mar 2012 05:49:24 -0500
+Reply-To: &lt;informationunit0@foxmail.com&gt;
+From: "Conga Lot"&lt;noreply@congalot.org&gt;
+Subject: Notification (You Won)
+Date: Tue, 20 Mar 2012 03:43:09 -0700
+
+Your email address just won the sum of $500,000 from our uk Lotto Conga Email promo,reply your claims agent in this mail with your full names(George White Tel # : +44-70240 78356)

@@ -1,0 +1,41 @@
+#
+# Features
+#
+useClassFeature=true
+1.lowercase=true
+1.lowercaseNGrams=false
+1.useNGrams=false
+1.usePrefixSuffixNGrams=false
+1.maxNGramLeng=4
+1.minNGramLeng=1
+1.useSplitWords=true
+1.splitWordsTokenizerRegexp=[\\p{L}][\\p{L}0-9]*|(?:\\$ ?)?[0-9]+(?:\\.[0-9]{2})?%?|\\s+|[\\x80-\\uFFFD]|.
+1.splitWordsIgnoreRegexp=\\s+
+1.useLowercaseSplitWords=true
+#
+# Printing
+#
+# printClassifier=HighWeight
+printClassifierParam=200
+#
+# Mapping
+#
+goldAnswerColumn=0
+displayedColumn=-1
+#
+# Optimization
+#
+#intern=true
+#sigma=3
+#useQN=true
+#QNsize=15
+#tolerance=1e-4
+#
+# Training input
+#
+trainFile=./examples/train_info.set
+testFile=./examples/test_info.set
+#
+# Output
+#
+serializeTo=PQclassifier.ser.gz

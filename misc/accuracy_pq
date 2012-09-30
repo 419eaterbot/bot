@@ -1,0 +1,6 @@
+250 examples in test set
+Cls info: TP=96 FN=26 FP=7 TN=121; Acc 0.868 P 0.932 R 0.787 F1 0.853
+Cls no_info: TP=121 FN=7 FP=26 TN=96; Acc 0.868 P 0.823 R 0.945 F1 0.880
+Micro-averaged accuracy/F1: 0.86800
+Macro-averaged F1: 0.86667
+

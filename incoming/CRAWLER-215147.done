@@ -1,0 +1,76 @@
+
+
+Received: by 10.68.135.201 with SMTP id pu9cs195058pbb;
+       Fri, 10 Feb 2012 09:58:25 -0800 (PST)
+Received: by 10.236.182.232 with SMTP id o68mr10114366yhm.58.1328896705028;
+       Fri, 10 Feb 2012 09:58:25 -0800 (PST)
+Return-Path: &lt;eliz2@singnet.com.sg&gt;
+Received: from nm10-vm0.bullet.mail.ird.yahoo.com (nm10-vm0.bullet.mail.ird.yahoo.com. [77.238.189.90])
+       by mx.google.com with SMTP id l9si9923899pbi.67.2012.02.10.09.58.23;
+       Fri, 10 Feb 2012 09:58:24 -0800 (PST)
+Received-SPF: neutral (google.com: 77.238.189.90 is neither permitted nor denied by best guess record for domain of eliz2@singnet.com.sg) client-ip=77.238.189.90;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 77.238.189.90 is neither permitted nor denied by best guess record for domain of eliz2@singnet.com.sg) smtp.mail=eliz2@singnet.com.sg; dkim=pass (test mode) header.i=@yahoo.com
+Received: from [77.238.189.53] by nm10.bullet.mail.ird.yahoo.com with NNFMP; 10 Feb 2012 17:58:23 -0000
+Received: from [212.82.108.114] by tm6.bullet.mail.ird.yahoo.com with NNFMP; 10 Feb 2012 17:58:23 -0000
+Received: from [127.0.0.1] by omp1023.mail.ird.yahoo.com with NNFMP; 10 Feb 2012 17:58:23 -0000
+X-Yahoo-Newman-Property: ymail-3
+X-Yahoo-Newman-Id: 271523.33194.bm@omp1023.mail.ird.yahoo.com
+Received: (qmail 79548 invoked by uid 6007); 10 Feb 2012 17:58:23 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxe
+Return-Path: &lt;eliz2@singnet.com.sg&gt;
+X-YahooFilteredBulk: 165.21.101.74
+X-Originating-IP: [165.21.101.74]
+Authentication-Results: mta1050.mail.ird.yahoo.com  from=singnet.com.sg; domainkeys=neutral (no sig);  from=singnet.com.sg; dkim=neutral (no sig)
+Received: from 127.0.0.1  (EHLO comsmtp1.singnet.com.sg) (165.21.101.74)
+ by mta1050.mail.ird.yahoo.com with SMTP; Fri, 10 Feb 2012 17:58:23 +0000
+Received: from discus.singnet.com.sg (discus.singnet.com.sg [165.21.101.119])
+	by comsmtp1.singnet.com.sg (8.14.1/8.13.6) with ESMTP id q1AHw3fY027756;
+	Sat, 11 Feb 2012 01:58:03 +0800
+Received: from discus.singnet.com.sg (localhost.localdomain [127.0.0.1])
+	by discus.singnet.com.sg (8.13.8/8.14.2) with ESMTP id q1AHw2kK010764;
+	Sat, 11 Feb 2012 01:58:12 +0800
+Received: (from cooluser@localhost)
+	by discus.singnet.com.sg (8.13.8/8.14.2/Submit) id q1AHvv2i010680;
+	Sat, 11 Feb 2012 01:57:57 +0800
+X-Authentication-Warning: discus.singnet.com.sg: cooluser set sender to eliz2@singnet.com.sg using -f
+To: info@un.org.uk
+Subject: Congratulations!!
+Message-ID: &lt;1328896677.4f355aa5846d4@discus.singnet.com.sg&gt;
+Date: Sat, 11 Feb 2012 01:57:57 +0800 (SGT)
+From: UN Donation Award Program &lt;eliz2@singnet.com.sg&gt;
+Reply-To: claimsoffice.ungrantdonation@beneficialgroup.org
+
+Attention Beneficiary/Winner:
+
+Congratulations:You are the beneficiary of
+700,00 donated to you by the United Nations
+(UN).Reply for claims(UNGD-UK) winners
+selected by the computer random draw from the
+12.1 million entries registered in the Grand
+Donation Program . The program is a United
+Nations congressionaly-mandated lottery
+program for receiving a donation from the
+United Nations UK(UNGD).To begin the
+processing of your prize, you are to contact
+our claims department office via E-mail at
+{claimsoffice.ungrantdonation@beneficialgroup.org}
+for all your documents and more  information
+as regards on how to claim your United
+Nations Grant Donation prize. Contact Person:
+
+(Dr) Andrew Logan
+E-mail:claimsoffice.ungrantdonation@beneficialgroup.org
+Tell:+44(0)7031884860
+Tell:+44(0)7031880586
+Fax:+44(0)7024097257
+
+Note that you only have a deadline of less
+than one  week from now to complete the
+claims of your prize money.Therefore you
+should act as quickly as possible.
+
+Once again congratulations and Enjoy Your Funds.
+
+Yours Sincerely,
+Mrs Anna Powell
+Online Team Management

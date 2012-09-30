@@ -1,0 +1,81 @@
+
+
+Return-path: &lt;library@adm.ubunkyo.ac.jp&gt;
+Envelope-to:
+Delivery-date: Sun, 04 Mar 2012 11:14:17 -0800
+Received: from sgw1.u-bunkyo.ac.jp ([202.209.168.35])
+	by  with esmtps (TLSv1:AES256-SHA:256)
+	(Exim 4.69)
+	(envelope-from &lt;library@adm.ubunkyo.ac.jp&gt;)
+	id 1S4Gsq-0005yq-IR
+	for ; Sun, 04 Mar 2012 11:14:17 -0800
+Received: from imp.u-bunkyo.ac.jp (imp.u-bunkyo.ac.jp [113.157.199.231])
+	by sgw1.u-bunkyo.ac.jp with ESMTP id q24J7uVs041589;
+	Mon, 5 Mar 2012 04:07:56 +0900 (JST)
+	(envelope-from library@adm.ubunkyo.ac.jp)
+Received: from adm.u-bunkyo.ac.jp (wm.irc.u-bunkyo.ac.jp [172.20.99.51])
+	by imp.u-bunkyo.ac.jp (Postfix) with SMTP id 8193F205A2;
+	Mon,  5 Mar 2012 04:07:51 +0900 (JST)
+MIME-Version: 1.0
+Message-ID: &lt;20120304190751.0000219D.0220@adm.u-bunkyo.ac.jp&gt;
+Date: Mon, 05 Mar 2012 04:07:51 +0900
+From: &lt;library@adm.ubunkyo.ac.jp&gt;
+To: &lt;".."@adm.u-bunkyo.ac.jp&gt;
+Reply-To: &lt;owenmoore.com@hotmail.com&gt;
+Subject: 
+Content-Type: Text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+X-MAILER: Active! mail
+X-MAIL: sgw1.u-bunkyo.ac.jp q24J7uVs041589
+X-Spam-Status: No, score=1.1
+X-Spam-Score: 11
+X-Spam-Bar: +
+X-Ham-Report: Spam detection software, running on the system "", has
+	identified this incoming email as possible spam.  The original message
+	has been attached to this so you can view it (if it isn't spam) or label
+	similar future email.  If you have any questions, see
+	the administrator of that system for details.
+	Content preview:  Hello, I will like to take this opportunity to introduce you
+	to our organization.Global Sources Network is a worldwide trading network
+	with members spread out across all regions of the world. Our company is the
+	world s largest trading network. We connect businesses directly to worldwide
+	buyers and sellers of their products, as well as create international awareness
+	for their products and services. Most importantly, we assist members sell
+	products, or make purchases from other regions of the world, through partnerships
+	with other members or representatives located in that region of the world.
+	[...] 
+	Content analysis details:   (1.1 points, 7.0 required)
+	pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	1.4 RCVD_IN_BRBL_LASTEXT   RBL: RCVD_IN_BRBL_LASTEXT
+	[202.209.168.35 listed in bb.barracudacentral.org]
+	-0.5 RP_MATCHES_RCVD        Envelope sender domain matches handover relay domain
+	-1.9 BAYES_00               BODY: Bayes spam probability is 0 to 1%
+	[score: 0.0000]
+	2.1 FREEMAIL_FORGED_REPLYTO Freemail in Reply-To, but not From
+X-Spam-Flag: NO
+
+Hello,
+
+I will like to take this opportunity to introduce you to our organization.Global Sources Network is a worldwide trading network with members spread out across all regions of the world. Our company is the world s largest trading network. We connect businesses directly to worldwide buyers and sellers of their products, as well as create international awareness for their products and services. Most importantly, we assist members sell products, or make purchases from other regions of the world, through partnerships with other members or representatives located in that region of the world.
+
+Our organization is currently expanding its operations in Canada and Latin America . As a result of increasing scale of trading activities from these regions, we are accepting applications/resumes for the position of representatives, who will assist us greatly in our worldwide trading network. Accepted candidates for this position, would be required to design an operational structure within their local area, through which our organization can effectively service the demands of its numerous members worldwide. As a representative of Global Sources Network, you will act as a receiver and dispatcher of consignments, satisfying the needs of our various members, as well as assist with processing of payments for goods and services traded by our members in your region. We offer a standard compensation rate of 10% commission per payment processed for any one of our members.
+The only forms of payment acceptable to us,are; (a) Wire Transfer, (b)Bank Drafts and (c) Company Checks
+
+Processing of payments on behalf of our members is a scheme that involves trust and confidence. Imbursement of monies or payments due to our members is prohibited under our code of conduct and business ethics. Our organization will prosecute vigorously, any case of imbursement of payments processed on behalf of our member.
+
+Please visit us at www.globalsources.com to learn more about our organization.
+
+Regards,
+
+Owen Moore
+Email: owenmoore.com@hotmail.com
+Global Sources Ltd
+c/o Media Data Systems Pte Ltd
+Raffles City PO Box 0203
+Singapore 911707
+Fax: (65) 6547-2888
+www.globalsources.com
+Singapore (65) 6547 2800
+United Kingdom (44) 7045711205
